@@ -1,0 +1,1934 @@
+ItemID,Sentiment,SentimentSource,SentimentText
+1038,1,Sentiment140,that film is fantastic #brilliant
+1804,0,Sentiment140,this music is really bad #myband
+1693,0,Sentiment140,winter is terrible #thumbs-down
+1477,0,Sentiment140,this game is awful #nightmare
+45,1,Sentiment140,I love jam #loveit
+246,0,Sentiment140,I dislike skiing #rubbish
+776,1,Sentiment140,I like pop music #toptastic
+1666,1,Sentiment140,this game is awful good
+1237,0,Sentiment140,rock music is terrible #worstever
+1386,1,Sentiment140,that movie is great #favorite
+695,0,Sentiment140,I hate this game #fail
+649,0,Sentiment140,I dislike this game #thumbs-down
+1565,1,Sentiment140,that movie is great #thumbs-up
+150,1,Sentiment140,I like tea #brilliant
+1500,1,Sentiment140,this game is terrible for fans of the other team #nightmare
+1781,0,Sentiment140,this game is terrible #fail
+884,1,Sentiment140,this game is brilliant #loveit
+1793,0,Sentiment140,jam is terrible #fail
+1782,0,Sentiment140,coffee is terrible #fail
+921,0,Sentiment140,that movie is awful #hateit
+1641,1,Sentiment140,that film is the best #thumbs-up
+1747,0,Sentiment140,jam is rubbish #thumbs-down
+434,1,Sentiment140,I like this band #favorite
+1473,0,Sentiment140,that movie is awful #nightmare
+1031,0,Sentiment140,classical music is great #not!
+211,0,Sentiment140,I hate this team #rubbish
+1071,1,Sentiment140,summer is brilliant #brilliant
+1437,1,Sentiment140,coffee is brilliant #favorite
+264,0,Sentiment140,I loathe coffee #rubbish
+1337,1,Sentiment140,that film is brilliant #bestever
+1325,1,Sentiment140,winter is fantastic #bestever
+1587,1,Sentiment140,cheese is great #thumbs-up
+1215,0,Sentiment140,classical music is awful #worstever
+272,0,Sentiment140,I loathe classical music #rubbish
+1586,1,Sentiment140,jam is great #thumbs-up
+1907,1,Sentiment140,that band is brilliant #toptastic
+1490,0,Sentiment140,rock music is awful #nightmare
+1378,1,Sentiment140,that band is the best #bestever
+1553,0,Sentiment140,tea is rubbish #nightmare
+1575,1,Sentiment140,coffee is great #thumbs-up
+1801,1,Sentiment140,this book is really bad #fail
+118,0,Sentiment140,I loathe that film #hateit
+1395,1,Sentiment140,the holidays is great #favorite
+15,1,Sentiment140,I like the holidays #loveit
+1434,1,Sentiment140,that film is brilliant #favorite
+19,0,Sentiment140,I like classical music #loveit
+380,1,Sentiment140,I love tea #bestever
+1184,0,Sentiment140,coffee is rubbish #rubbish
+1035,0,Sentiment140,cheese is great #brilliant
+248,0,Sentiment140,I dislike rock music #rubbish
+1169,0,Sentiment140,classical music is really bad #rubbish
+1304,1,Sentiment140,skiing is great #bestever
+1897,1,Sentiment140,coffee is brilliant #toptastic
+692,0,Sentiment140,I hate this book #fail
+244,0,Sentiment140,I dislike winter #rubbish
+1398,1,Sentiment140,rock music is great #favorite
+1269,0,Sentiment140,this team is rubbish #worstever
+1338,1,Sentiment140,this team is brilliant #bestever
+1008,0,Sentiment140,classical music is rubbish #hateit
+365,1,Sentiment140,I like this band #bestever
+1865,1,Sentiment140,this book is fantastic #toptastic
+207,1,Sentiment140,I adore cheese #brilliant
+934,0,Sentiment140,winter is awful #hateit
+1670,0,Sentiment140,winter is awful #thumbs-down
+659,0,Sentiment140,I dislike the holidays #thumbs-down
+403,1,Sentiment140,I adore tea #bestever
+864,1,Sentiment140,summer is fantastic #loveit
+1384,1,Sentiment140,this team is great #favorite
+960,0,Sentiment140,pop music is terrible #hateit
+408,1,Sentiment140,I adore pop music #bestever
+621,1,Sentiment140,I adore cheese #thumbs-up
+397,1,Sentiment140,We adore that movie #bestever
+1397,1,Sentiment140,pop music is great #favorite
+637,0,Sentiment140,I hate skiing #thumbs-down
+713,0,Sentiment140,I hate cheese #fail
+1075,1,Sentiment140,pop music is brilliant #brilliant
+444,1,Sentiment140,We love this book #favorite
+1580,1,Sentiment140,skiing is great #thumbs-up
+1320,1,Sentiment140,this team is fantastic #bestever
+1883,1,Sentiment140,this band is fantastic #toptastic
+1062,1,Sentiment140,this team is brilliant #brilliant
+183,1,Sentiment140,I love jam #brilliant
+1266,0,Sentiment140,that movie is rubbish #worstever
+1459,1,Sentiment140,this game is the best #favorite
+1559,0,Sentiment140,rock music is rubbish #nightmare
+1852,1,Sentiment140,tea is great #toptastic
+792,1,Sentiment140,We love this game #toptastic
+1068,1,Sentiment140,this game is brilliant #brilliant
+1224,0,Sentiment140,this game is terrible #worstever
+1596,1,Sentiment140,this team is fantastic #thumbs-up
+1347,1,Sentiment140,summer is brilliant #bestever
+1650,1,Sentiment140,pop music is the best #thumbs-up
+404,1,Sentiment140,I adore summer #bestever
+304,0,Sentiment140,I dislike this game #worstever
+343,0,Sentiment140,I loathe that band #worstever
+1698,0,Sentiment140,classical music is terrible #thumbs-down
+1485,0,Sentiment140,summer is awful #nightmare
+744,0,Sentiment140,We loathe that film #fail
+1756,0,Sentiment140,that film is awful #fail
+398,1,Sentiment140,We adore this book #bestever
+1735,0,Sentiment140,this game is rubbish #thumbs-down
+720,0,Sentiment140,We dislike this book #fail
+1572,1,Sentiment140,that film is great #thumbs-up
+192,1,Sentiment140,We adore that film #brilliant
+1024,1,Sentiment140,tea is great #brilliant
+585,1,Sentiment140,We love this game #thumbs-up
+329,0,Sentiment140,We loathe this book #worstever
+440,1,Sentiment140,I love that film #favorite
+1829,0,Sentiment140,tea is rubbish #fail
+1236,0,Sentiment140,pop music is terrible #worstever
+79,0,Sentiment140,We hate this game #hateit
+1205,0,Sentiment140,this team is awful #worstever
+712,0,Sentiment140,I hate jam #fail
+1428,1,Sentiment140,this book is brilliant #favorite
+1922,1,Sentiment140,summer is the best #toptastic
+1285,0,Sentiment140,this band is rubbish #worstever
+994,0,Sentiment140,this game is rubbish #hateit
+279,0,Sentiment140,I hate that film #worstever
+1675,0,Sentiment140,classical music is awful #thumbs-down
+1637,1,Sentiment140,this team is the best #thumbs-up
+1135,0,Sentiment140,that film is terrible #rubbish
+143,0,Sentiment140,I don't like this game
+708,0,Sentiment140,I hate rock music #fail
+534,0,Sentiment140,I loathe this game #nightmare
+975,0,Sentiment140,this team is really bad #hateit
+1382,1,Sentiment140,this book is rubbish #hateit
+959,0,Sentiment140,skiing is terrible #hateit
+280,0,Sentiment140,I hate this team #worstever
+270,0,Sentiment140,I loathe pop music #rubbish
+1911,1,Sentiment140,this book is the best #toptastic
+1600,1,Sentiment140,summer is fantastic #thumbs-up
+1311,1,Sentiment140,cheese is great #bestever
+1512,0,Sentiment140,pop music is terrible #nightmare
+766,1,Sentiment140,We like this book #toptastic
+1055,1,Sentiment140,this band is fantastic #brilliant
+1422,1,Sentiment140,classical music is fantastic #favorite
+936,0,Sentiment140,skiing is awful #hateit
+332,0,Sentiment140,We loathe this game #worstever
+1438,1,Sentiment140,tea is brilliant #favorite
+1326,1,Sentiment140,the holidays is fantastic #bestever
+1769,1,Sentiment140,that band is awful #fail
+475,1,Sentiment140,I adore the holidays #favorite
+3,1,Sentiment140,I like that film #loveit
+626,0,Sentiment140,I hate this game #thumbs-down
+226,0,Sentiment140,I hate classical music #rubbish
+1312,0,Sentiment140,that movie is fantastic #bestever
+212,0,Sentiment140,I hate this game #rubbish
+856,1,Sentiment140,this game is fantastic #loveit
+486,0,Sentiment140,I hate that film #nightmare
+415,1,Sentiment140,I like that movie #favorite
+1475,1,Sentiment140,that film is awful #nightmare
+111,0,Sentiment140,I dislike classical music #hateit
+1891,0,Sentiment140,this game is brilliant #toptastic
+1576,1,Sentiment140,tea is great #thumbs-up
+163,1,Sentiment140,I love this book #brilliant
+1284,0,Sentiment140,classical music is rubbish #worstever
+1199,0,Sentiment140,that film is awful #worstever
+780,1,Sentiment140,I like that band #toptastic
+1085,1,Sentiment140,this team is the best #brilliant
+1254,0,Sentiment140,tea is really bad #worstever
+1589,1,Sentiment140,this book is fantastic #thumbs-up
+88,0,Sentiment140,I hate classical music #hateit
+1409,1,Sentiment140,that movie is fantastic #favorite
+609,1,Sentiment140,I adore coffee #thumbs-up
+474,1,Sentiment140,I adore winter #favorite
+159,1,Sentiment140,I like that band #brilliant
+1812,0,Sentiment140,rock music is really bad #fail
+373,1,Sentiment140,I love this game #bestever
+523,0,Sentiment140,I dislike pop music #nightmare
+1817,0,Sentiment140,cheese is really bad #fail
+448,1,Sentiment140,I love coffee #favorite
+1545,0,Sentiment140,this team is rubbish #nightmare
+1229,0,Sentiment140,this game is terrible #worstever
+1590,0,Sentiment140,that film is fantastic #thumbs-up
+191,0,Sentiment140,We adore this book #brilliant
+1929,1,Sentiment140,this band is the best #toptastic
+1523,0,Sentiment140,this game is really bad #nightmare
+1760,0,Sentiment140,tea is awful #fail
+1860,1,Sentiment140,this band is great #toptastic
+258,0,Sentiment140,I loathe this game #rubbish
+1464,1,Sentiment140,the holidays is the best #favorite
+1771,0,Sentiment140,cheese is awful #fail
+1402,1,Sentiment140,jam is great #favorite
+1658,0,Sentiment140,this book is awful #thumbs-down
+1127,0,Sentiment140,cheese is awful #rubbish
+1387,1,Sentiment140,this book is great #favorite
+900,1,Sentiment140,that film is the best #loveit
+630,0,Sentiment140,We hate this team #thumbs-down
+1603,1,Sentiment140,skiing is fantastic #thumbs-up
+591,1,Sentiment140,I love skiing #thumbs-up
+1728,0,Sentiment140,that film is rubbish #thumbs-down
+581,1,Sentiment140,We love that movie #thumbs-up
+552,0,Sentiment140,I loathe cheese #nightmare
+573,1,Sentiment140,I like that band #thumbs-up
+121,0,Sentiment140,We loathe that movie #hateit
+1822,0,Sentiment140,this game is rubbish #fail
+541,0,Sentiment140,I loathe tea #nightmare
+1677,0,Sentiment140,that band is awful #thumbs-down
+718,0,Sentiment140,I dislike this game #fail
+283,0,Sentiment140,We hate this book #worstever
+842,1,Sentiment140,winter is great #loveit
+1620,1,Sentiment140,this game is brilliant #thumbs-up
+420,1,Sentiment140,We like that movie #favorite
+1613,1,Sentiment140,that film is brilliant #thumbs-up
+1084,1,Sentiment140,that film is the best #brilliant
+847,1,Sentiment140,classical music is great #loveit
+1094,1,Sentiment140,summer is the best #brilliant
+1540,0,Sentiment140,jam is really bad #nightmare
+1297,1,Sentiment140,this team is great #bestever
+1276,0,Sentiment140,coffee is rubbish #worstever
+1766,0,Sentiment140,rock music is awful #fail
+1166,0,Sentiment140,skiing is really bad #rubbish
+1668,0,Sentiment140,tea is awful #thumbs-down
+249,0,Sentiment140,I dislike classical music #rubbish
+1723,0,Sentiment140,that band is really bad #thumbs-down
+1561,0,Sentiment140,this band is rubbish #nightmare
+1080,1,Sentiment140,jam is brilliant #brilliant
+686,0,Sentiment140,I loathe classical music #thumbs-down
+1203,0,Sentiment140,this book is awful #worstever
+843,1,Sentiment140,the holidays is great #loveit
+442,1,Sentiment140,I love this game #favorite
+1524,0,Sentiment140,that movie is really bad #nightmare
+1856,1,Sentiment140,skiing is great #toptastic
+1401,1,Sentiment140,that band is great #favorite
+696,0,Sentiment140,We hate that movie #fail
+1443,1,Sentiment140,pop music is brilliant #favorite
+119,0,Sentiment140,I loathe this team #hateit
+1887,1,Sentiment140,that movie is brilliant #toptastic
+1191,0,Sentiment140,rock music is rubbish #rubbish
+342,0,Sentiment140,I loathe this band #worstever
+202,1,Sentiment140,I adore rock music #brilliant
+42,1,Sentiment140,I love classical music #loveit
+1877,1,Sentiment140,winter is fantastic #toptastic
+559,1,Sentiment140,We like this book #thumbs-up
+1649,1,Sentiment140,skiing is the best #thumbs-up
+7,1,Sentiment140,We like this book #loveit
+1033,1,Sentiment140,that band is great #brilliant
+891,1,Sentiment140,pop music is brilliant #loveit
+245,0,Sentiment140,I dislike the holidays #rubbish
+447,1,Sentiment140,We love this game #favorite
+1457,1,Sentiment140,that film is the best #favorite
+232,0,Sentiment140,I dislike this book #rubbish
+1350,1,Sentiment140,skiing is brilliant #bestever
+669,0,Sentiment140,I loathe this book #thumbs-down
+774,1,Sentiment140,I like the holidays #toptastic
+784,1,Sentiment140,I love this book #toptastic
+384,1,Sentiment140,I love skiing #bestever
+73,0,Sentiment140,I hate this team #hateit
+735,0,Sentiment140,I dislike jam #fail
+802,1,Sentiment140,I love this band #toptastic
+75,0,Sentiment140,We hate that movie #hateit
+204,1,Sentiment140,I adore this band #brilliant
+262,0,Sentiment140,We loathe this team #rubbish
+1866,1,Sentiment140,that film is fantastic #toptastic
+848,1,Sentiment140,this band is great #loveit
+596,1,Sentiment140,I love that band #thumbs-up
+83,0,Sentiment140,I hate winter #hateit
+1174,0,Sentiment140,that movie is rubbish #rubbish
+269,0,Sentiment140,I loathe skiing #rubbish
+296,0,Sentiment140,I hate this band #worstever
+954,0,Sentiment140,coffee is terrible #hateit
+530,0,Sentiment140,I loathe that movie #nightmare
+1872,1,Sentiment140,this team is fantastic #toptastic
+1864,1,Sentiment140,that movie is fantastic #toptastic
+787,1,Sentiment140,I love this game #toptastic
+126,0,Sentiment140,I loathe coffee #hateit
+1890,1,Sentiment140,this team is brilliant #toptastic
+266,0,Sentiment140,I loathe summer #rubbish
+703,0,Sentiment140,I hate summer #fail
+1479,0,Sentiment140,this book is awful #nightmare
+470,1,Sentiment140,We adore this game #favorite
+1157,0,Sentiment140,this book is really bad #rubbish
+602,1,Sentiment140,I adore this team #thumbs-up
+379,1,Sentiment140,I love coffee #bestever
+39,1,Sentiment140,I love skiing #loveit
+103,0,Sentiment140,I dislike coffee #hateit
+1389,1,Sentiment140,this team is great #favorite
+572,1,Sentiment140,I like this band #thumbs-up
+1143,0,Sentiment140,skiing is terrible #rubbish
+260,0,Sentiment140,We loathe this book #rubbish
+1573,1,Sentiment140,this team is great #thumbs-up
+495,0,Sentiment140,I hate tea #nightmare
+1761,0,Sentiment140,summer is awful #fail
+341,0,Sentiment140,I loathe classical music #worstever
+685,0,Sentiment140,I loathe rock music #thumbs-down
+238,0,Sentiment140,We dislike that film #rubbish
+1371,1,Sentiment140,winter is the best #bestever
+1827,0,Sentiment140,this game is rubbish #fail
+1120,0,Sentiment140,skiing is awful #rubbish
+1742,0,Sentiment140,pop music is rubbish #thumbs-down
+976,0,Sentiment140,this game is really bad #hateit
+542,0,Sentiment140,I loathe summer #nightmare
+1795,0,Sentiment140,that movie is really bad #fail
+256,0,Sentiment140,I loathe that film #rubbish
+1070,1,Sentiment140,tea is brilliant #brilliant
+1542,0,Sentiment140,that movie is rubbish #nightmare
+1081,1,Sentiment140,cheese is brilliant #brilliant
+854,1,Sentiment140,that film is fantastic #loveit
+1181,0,Sentiment140,that film is rubbish #rubbish
+1697,0,Sentiment140,rock music is terrible #thumbs-down
+821,1,Sentiment140,I adore skiing #toptastic
+1733,0,Sentiment140,that film is rubbish #thumbs-down
+498,0,Sentiment140,I hate the holidays #nightmare
+1151,0,Sentiment140,that movie is really bad #rubbish
+93,0,Sentiment140,I dislike that movie #hateit
+1821,0,Sentiment140,this team is rubbish #fail
+1136,0,Sentiment140,this team is terrible #rubbish
+388,1,Sentiment140,I love this band #bestever
+1002,0,Sentiment140,summer is rubbish #hateit
+963,0,Sentiment140,this band is terrible #hateit
+1491,0,Sentiment140,classical music is awful #nightmare
+1494,0,Sentiment140,jam is awful #nightmare
+895,1,Sentiment140,that band is brilliant #loveit
+334,0,Sentiment140,I loathe tea #worstever
+1625,1,Sentiment140,the holidays is brilliant #thumbs-up
+1368,1,Sentiment140,coffee is the best #bestever
+532,0,Sentiment140,I loathe that film #nightmare
+622,0,Sentiment140,I hate that movie #thumbs-down
+216,0,Sentiment140,We hate this team #rubbish
+1591,1,Sentiment140,this team is fantastic #thumbs-up
+1416,1,Sentiment140,summer is fantastic #favorite
+950,0,Sentiment140,this book is terrible #hateit
+1659,0,Sentiment140,that film is awful #thumbs-down
+965,0,Sentiment140,jam is terrible #hateit
+560,1,Sentiment140,We like that film #thumbs-up
+829,1,Sentiment140,that movie is great #loveit
+1041,1,Sentiment140,that movie is fantastic #brilliant
+1170,0,Sentiment140,this band is really bad #rubbish
+253,0,Sentiment140,I dislike cheese #rubbish
+1624,1,Sentiment140,winter is brilliant #thumbs-up
+417,1,Sentiment140,I like that film #favorite
+1239,0,Sentiment140,this band is terrible #worstever
+479,1,Sentiment140,I adore classical music #favorite
+1165,0,Sentiment140,the holidays is really bad #rubbish
+839,1,Sentiment140,coffee is great #loveit
+1537,0,Sentiment140,classical music is really bad #nightmare
+636,0,Sentiment140,I hate the holidays #thumbs-down
+740,0,Sentiment140,I loathe this team #fail
+745,0,Sentiment140,We loathe this team #fail
+1454,1,Sentiment140,this game is the best #favorite
+1550,0,Sentiment140,this team is rubbish #nightmare
+1088,1,Sentiment140,this book is the best #brilliant
+82,0,Sentiment140,I hate summer #hateit
+1814,0,Sentiment140,this band is really bad #fail
+562,1,Sentiment140,We like this game #thumbs-up
+169,1,Sentiment140,We love that film #brilliant
+393,1,Sentiment140,I adore this book #bestever
+1256,0,Sentiment140,winter is really bad #worstever
+1652,1,Sentiment140,classical music is the best #thumbs-up
+1508,0,Sentiment140,summer is terrible #nightmare
+851,1,Sentiment140,cheese is great #loveit
+990,0,Sentiment140,that movie is rubbish #hateit
+1738,0,Sentiment140,summer is rubbish #thumbs-down
+63,1,Sentiment140,I adore pop music #loveit
+1028,1,Sentiment140,skiing is great #brilliant
+1900,1,Sentiment140,winter is brilliant #toptastic
+1092,1,Sentiment140,coffee is the best #brilliant
+230,0,Sentiment140,I hate cheese #rubbish
+137,0,Sentiment140,I loathe jam #hateit
+251,0,Sentiment140,I dislike that band #rubbish
+1172,0,Sentiment140,jam is really bad #rubbish
+1784,0,Sentiment140,summer is terrible #fail
+142,1,Sentiment140,I like this team #brilliant
+853,1,Sentiment140,this book is fantastic #loveit
+463,1,Sentiment140,I adore that film #favorite
+874,1,Sentiment140,cheese is fantastic #loveit
+1807,0,Sentiment140,summer is really bad #fail
+571,1,Sentiment140,I like classical music #thumbs-up
+1156,0,Sentiment140,that movie is really bad #rubbish
+1607,1,Sentiment140,this band is fantastic #thumbs-up
+1013,1,Sentiment140,that movie is great #brilliant
+158,1,Sentiment140,I like this band #brilliant
+1328,1,Sentiment140,pop music is fantastic #bestever
+554,1,Sentiment140,I like this book #thumbs-up
+984,0,Sentiment140,rock music is really bad #hateit
+1721,0,Sentiment140,classical music is really bad #thumbs-down
+115,0,Sentiment140,I dislike cheese #hateit
+506,0,Sentiment140,I hate cheese #nightmare
+717,0,Sentiment140,I dislike this team #fail
+623,0,Sentiment140,I hate this book #thumbs-down
+1583,1,Sentiment140,classical music is great #thumbs-up
+1228,0,Sentiment140,this team is terrible #worstever
+567,1,Sentiment140,I like the holidays #thumbs-up
+1726,0,Sentiment140,that movie is rubbish #thumbs-down
+1321,1,Sentiment140,this game is fantastic #bestever
+553,1,Sentiment140,I like that movie #thumbs-up
+441,1,Sentiment140,I love this team #favorite
+147,1,Sentiment140,We like this team #brilliant
+1130,0,Sentiment140,that film is terrible #rubbish
+610,1,Sentiment140,I adore tea #thumbs-up
+1758,0,Sentiment140,this game is awful #fail
+647,0,Sentiment140,I dislike that film #thumbs-down
+767,1,Sentiment140,We like that film #toptastic
+612,1,Sentiment140,I adore winter #thumbs-up
+37,1,Sentiment140,I love winter #loveit
+964,0,Sentiment140,that band is terrible #hateit
+1144,0,Sentiment140,pop music is terrible #rubbish
+482,1,Sentiment140,I adore jam #favorite
+1302,1,Sentiment140,winter is great #bestever
+322,0,Sentiment140,I dislike cheese #worstever
+601,1,Sentiment140,I adore that film #thumbs-up
+1688,0,Sentiment140,this team is terrible #thumbs-down
+349,1,Sentiment140,I like this team #bestever
+132,0,Sentiment140,I loathe pop music #hateit
+412,1,Sentiment140,I adore that band #bestever
+871,1,Sentiment140,this band is fantastic #loveit
+906,1,Sentiment140,this team is the best #loveit
+377,1,Sentiment140,We love this team #bestever
+598,1,Sentiment140,I love cheese #thumbs-up
+902,1,Sentiment140,this game is the best #loveit
+751,0,Sentiment140,I loathe the holidays #fail
+484,0,Sentiment140,I hate that movie #nightmare
+1103,1,Sentiment140,jam is the best #brilliant
+189,1,Sentiment140,I adore this game #brilliant
+424,1,Sentiment140,We like this game #favorite
+619,1,Sentiment140,I adore that band #thumbs-up
+1470,1,Sentiment140,that band is the best #favorite
+1806,0,Sentiment140,tea is really bad #fail
+1023,1,Sentiment140,coffee is great #brilliant
+910,1,Sentiment140,summer is the best #loveit
+181,1,Sentiment140,I love this band #brilliant
+688,0,Sentiment140,I loathe that band #thumbs-down
+1234,0,Sentiment140,the holidays is terrible #worstever
+1741,0,Sentiment140,skiing is rubbish #thumbs-down
+731,0,Sentiment140,I dislike rock music #fail
+1609,1,Sentiment140,jam is fantastic #thumbs-up
+196,1,Sentiment140,I adore tea #brilliant
+85,0,Sentiment140,I hate skiing #hateit
+681,0,Sentiment140,I loathe winter #thumbs-down
+98,0,Sentiment140,We dislike that movie #hateit
+48,1,Sentiment140,I adore this book #loveit
+1532,0,Sentiment140,winter is really bad #nightmare
+1918,1,Sentiment140,this team is the best #toptastic
+1116,0,Sentiment140,tea is awful #rubbish
+922,0,Sentiment140,this book is awful #hateit
+1185,0,Sentiment140,tea is rubbish #rubbish
+1594,1,Sentiment140,this book is fantastic #thumbs-up
+1612,1,Sentiment140,this book is brilliant #thumbs-up
+389,1,Sentiment140,I love that band #bestever
+634,0,Sentiment140,I hate summer #thumbs-down
+520,0,Sentiment140,I dislike winter #nightmare
+188,1,Sentiment140,I adore this team #brilliant
+130,0,Sentiment140,I loathe the holidays #hateit
+27,1,Sentiment140,I love this team #loveit
+1137,0,Sentiment140,this game is terrible #rubbish
+77,0,Sentiment140,We hate that film #hateit
+543,0,Sentiment140,I loathe winter #nightmare
+1859,1,Sentiment140,classical music is great #toptastic
+453,1,Sentiment140,I love skiing #favorite
+962,0,Sentiment140,classical music is terrible #hateit
+631,0,Sentiment140,We hate this game #thumbs-down
+1221,0,Sentiment140,this book is terrible #worstever
+627,0,Sentiment140,We hate that movie #thumbs-down
+20,1,Sentiment140,I like this band #loveit
+832,1,Sentiment140,this team is great #loveit
+1098,1,Sentiment140,pop music is the best #brilliant
+483,1,Sentiment140,I adore cheese #favorite
+748,0,Sentiment140,I loathe tea #fail
+999,0,Sentiment140,this game is rubbish #hateit
+1777,0,Sentiment140,that movie is terrible #fail
+923,0,Sentiment140,that film is awful #hateit
+112,0,Sentiment140,I dislike this band #hateit
+1113,0,Sentiment140,this team is awful #rubbish
+425,1,Sentiment140,I like coffee #favorite
+536,0,Sentiment140,We loathe this book #nightmare
+1243,0,Sentiment140,that movie is really bad #worstever
+465,1,Sentiment140,I adore this game #favorite
+1064,1,Sentiment140,that movie is brilliant #brilliant
+800,1,Sentiment140,I love rock music #toptastic
+898,1,Sentiment140,that movie is the best #loveit
+458,1,Sentiment140,I love that band #favorite
+565,1,Sentiment140,I like summer #thumbs-up
+1149,0,Sentiment140,jam is terrible #rubbish
+1925,1,Sentiment140,skiing is the best #toptastic
+1673,0,Sentiment140,pop music is awful #thumbs-down
+1000,0,Sentiment140,coffee is rubbish #hateit
+1835,0,Sentiment140,rock music is rubbish #fail
+78,0,Sentiment140,We hate this team #hateit
+1533,0,Sentiment140,the holidays is really bad #nightmare
+827,1,Sentiment140,I adore jam #toptastic
+516,0,Sentiment140,We dislike this game #nightmare
+894,1,Sentiment140,this band is brilliant #loveit
+1029,1,Sentiment140,pop music is great #brilliant
+1841,1,Sentiment140,that movie is great #toptastic
+1469,1,Sentiment140,this band is the best #favorite
+1186,0,Sentiment140,summer is rubbish #rubbish
+1374,1,Sentiment140,pop music is the best #bestever
+1501,0,Sentiment140,that movie is terrible #nightmare
+1871,1,Sentiment140,that film is fantastic #toptastic
+1349,1,Sentiment140,the holidays is brilliant #bestever
+206,1,Sentiment140,I adore jam #brilliant
+320,0,Sentiment140,I dislike that band #worstever
+1247,0,Sentiment140,this game is really bad #worstever
+357,1,Sentiment140,I like tea #bestever
+664,0,Sentiment140,I dislike this band #thumbs-down
+1171,0,Sentiment140,that band is really bad #rubbish
+547,0,Sentiment140,I loathe rock music #nightmare
+920,1,Sentiment140,cheese is the best #loveit
+589,1,Sentiment140,I love winter #thumbs-up
+509,0,Sentiment140,I dislike that film #nightmare
+1372,1,Sentiment140,the holidays is the best #bestever
+1082,1,Sentiment140,that movie is the best #brilliant
+1230,0,Sentiment140,coffee is terrible #worstever
+1305,1,Sentiment140,pop music is great #bestever
+896,1,Sentiment140,jam is brilliant #loveit
+1065,1,Sentiment140,this book is brilliant #brilliant
+187,1,Sentiment140,I adore that film #brilliant
+1344,1,Sentiment140,this game is brilliant #bestever
+969,0,Sentiment140,that film is really bad #hateit
+1154,0,Sentiment140,this team is really bad #rubbish
+1785,1,Sentiment140,winter is terrible #fail
+1480,1,Sentiment140,that film is awful #nightmare
+865,0,Sentiment140,winter is fantastic #loveit
+769,0,Sentiment140,We like this game #toptastic
+321,1,Sentiment140,I dislike jam #worstever
+1294,0,Sentiment140,that movie is great #bestever
+1552,0,Sentiment140,coffee is rubbish #nightmare
+618,1,Sentiment140,I adore this band #thumbs-up
+1220,0,Sentiment140,that movie is terrible #worstever
+1653,0,Sentiment140,this band is the best #thumbs-up
+101,0,Sentiment140,We dislike this team #hateit
+141,1,Sentiment140,I like that film #brilliant
+1526,0,Sentiment140,that film is really bad #nightmare
+816,1,Sentiment140,I adore coffee #toptastic
+1331,0,Sentiment140,this band is fantastic #bestever
+1875,1,Sentiment140,tea is fantastic #toptastic
+1644,1,Sentiment140,coffee is the best #thumbs-up
+651,0,Sentiment140,We dislike this book #thumbs-down
+1418,1,Sentiment140,the holidays is fantastic #favorite
+1484,0,Sentiment140,tea is awful #nightmare
+908,1,Sentiment140,coffee is the best #loveit
+1099,1,Sentiment140,rock music is the best #brilliant
+91,0,Sentiment140,I hate jam #hateit
+1198,0,Sentiment140,this book is awful #worstever
+1357,1,Sentiment140,cheese is brilliant #bestever
+882,1,Sentiment140,that film is brilliant #loveit
+354,1,Sentiment140,We like this team #bestever
+193,1,Sentiment140,We adore this team #brilliant
+1744,0,Sentiment140,classical music is rubbish #thumbs-down
+1043,1,Sentiment140,that film is fantastic #brilliant
+641,0,Sentiment140,I hate this band #thumbs-down
+66,1,Sentiment140,I adore this band #loveit
+1853,1,Sentiment140,summer is great #toptastic
+973,0,Sentiment140,this book is really bad #hateit
+579,1,Sentiment140,I love this team #thumbs-up
+1124,0,Sentiment140,this band is awful #rubbish
+789,1,Sentiment140,We love this book #toptastic
+242,0,Sentiment140,I dislike tea #rubbish
+580,1,Sentiment140,I love this game #thumbs-up
+302,0,Sentiment140,I dislike that film #worstever
+1842,0,Sentiment140,this book is great #toptastic
+1737,0,Sentiment140,tea is rubbish #thumbs-down
+57,1,Sentiment140,I adore coffee #loveit
+1601,1,Sentiment140,winter is fantastic #thumbs-up
+1420,1,Sentiment140,pop music is fantastic #favorite
+1516,0,Sentiment140,that band is terrible #nightmare
+1012,1,Sentiment140,cheese is awesome
+41,1,Sentiment140,I love rock music #loveit
+1528,0,Sentiment140,this game is really bad #nightmare
+1118,0,Sentiment140,winter is awful #rubbish
+1249,0,Sentiment140,this book is really bad #worstever
+1383,0,Sentiment140,that film is not great
+730,0,Sentiment140,I dislike pop music #fail
+2,1,Sentiment140,I like this book #loveit
+1719,0,Sentiment140,pop music is really bad #thumbs-down
+1617,1,Sentiment140,this book is brilliant #thumbs-up
+940,0,Sentiment140,this band is awful #hateit
+353,1,Sentiment140,We like that film #bestever
+1083,1,Sentiment140,this book is the best #brilliant
+1727,0,Sentiment140,this book is rubbish #thumbs-down
+791,1,Sentiment140,We love this team #toptastic
+957,0,Sentiment140,winter is terrible #hateit
+233,0,Sentiment140,I dislike that film #rubbish
+785,1,Sentiment140,I love that film #toptastic
+254,0,Sentiment140,I loathe that movie #rubbish
+835,1,Sentiment140,this book is great #loveit
+1140,0,Sentiment140,summer is terrible #rubbish
+777,0,Sentiment140,I like rock music #toptastic
+806,0,Sentiment140,I adore that movie #toptastic
+1888,0,Sentiment140,this book is brilliant #toptastic
+942,0,Sentiment140,jam is awful #hateit
+1794,0,Sentiment140,cheese is terrible #fail
+1796,0,Sentiment140,this book is really bad #fail
+271,0,Sentiment140,I loathe rock music #rubbish
+860,1,Sentiment140,this team is fantastic #loveit
+1764,0,Sentiment140,skiing is awful #fail
+1017,1,Sentiment140,this game is great #brilliant
+1421,1,Sentiment140,rock music is fantastic #favorite
+1105,0,Sentiment140,that movie is awful #rubbish
+263,0,Sentiment140,We loathe this game #rubbish
+1039,1,Sentiment140,this team is fantastic #brilliant
+1032,1,Sentiment140,this band is great #brilliant
+134,0,Sentiment140,I loathe classical music #hateit
+819,1,Sentiment140,I adore winter #toptastic
+466,1,Sentiment140,We adore that movie #favorite
+1608,1,Sentiment140,that band is fantastic #thumbs-up
+1671,0,Sentiment140,the holidays is awful #thumbs-down
+366,1,Sentiment140,I like that band #bestever
+190,1,Sentiment140,We adore that movie #brilliant
+1914,1,Sentiment140,this game is the best #toptastic
+1622,1,Sentiment140,tea is brilliant #thumbs-up
+368,1,Sentiment140,I like cheese #bestever
+1704,0,Sentiment140,this book is really bad #thumbs-down
+219,0,Sentiment140,I hate tea #rubbish
+395,1,Sentiment140,I adore this team #bestever
+1433,1,Sentiment140,this book is brilliant #favorite
+1642,1,Sentiment140,this team is the best #thumbs-up
+1805,0,Sentiment140,coffee is really bad #fail
+913,1,Sentiment140,skiing is the best #loveit
+877,1,Sentiment140,that film is brilliant #loveit
+1544,0,Sentiment140,that film is rubbish #nightmare
+1235,0,Sentiment140,skiing is terrible #worstever
+1076,1,Sentiment140,rock music is brilliant #brilliant
+1564,0,Sentiment140,cheese is rubbish #nightmare
+1252,0,Sentiment140,this game is really bad #worstever
+1353,1,Sentiment140,classical music is brilliant #bestever
+1678,0,Sentiment140,jam is awful #thumbs-down
+1482,0,Sentiment140,this game is awful #nightmare
+716,0,Sentiment140,I dislike that film #fail
+986,0,Sentiment140,this band is really bad #hateit
+1255,0,Sentiment140,summer is really bad #worstever
+1498,0,Sentiment140,that film is terrible #nightmare
+1318,1,Sentiment140,this book is fantastic #bestever
+1362,1,Sentiment140,this game is the best #bestever
+333,0,Sentiment140,I loathe coffee #worstever
+446,1,Sentiment140,We love this team #favorite
+165,1,Sentiment140,I love this team #brilliant
+209,0,Sentiment140,I hate this book #rubbish
+781,1,Sentiment140,I like jam #toptastic
+390,1,Sentiment140,I love jam #bestever
+1406,1,Sentiment140,that film is fantastic #favorite
+1604,1,Sentiment140,pop music is fantastic #thumbs-up
+1549,0,Sentiment140,that film is rubbish #nightmare
+656,0,Sentiment140,I dislike tea #thumbs-down
+951,0,Sentiment140,that film is terrible #hateit
+1089,1,Sentiment140,that film is the best #brilliant
+1509,0,Sentiment140,winter is terrible #nightmare
+392,1,Sentiment140,I adore that movie #bestever
+899,1,Sentiment140,this book is the best #loveit
+666,0,Sentiment140,I dislike jam #thumbs-down
+709,0,Sentiment140,I hate classical music #fail
+1878,1,Sentiment140,the holidays is fantastic #toptastic
+673,0,Sentiment140,We loathe that movie #thumbs-down
+943,0,Sentiment140,cheese is awful #hateit
+502,0,Sentiment140,I hate classical music #nightmare
+1562,0,Sentiment140,that band is rubbish #nightmare
+1799,0,Sentiment140,this game is really bad #fail
+1734,0,Sentiment140,this team is rubbish #thumbs-down
+1141,0,Sentiment140,winter is terrible #rubbish
+629,0,Sentiment140,We hate that film #thumbs-down
+1894,1,Sentiment140,that film is brilliant #toptastic
+1489,0,Sentiment140,pop music is awful #nightmare
+912,1,Sentiment140,the holidays is the best #loveit
+867,1,Sentiment140,skiing is fantastic #loveit
+51,1,Sentiment140,I adore this game #loveit
+642,0,Sentiment140,I hate that band #thumbs-down
+370,1,Sentiment140,I love this book #bestever
+301,0,Sentiment140,I dislike this book #worstever
+1193,0,Sentiment140,this band is rubbish #rubbish
+261,0,Sentiment140,We loathe that film #rubbish
+97,0,Sentiment140,I dislike this game #hateit
+1291,1,Sentiment140,that film is great #bestever
+1018,1,Sentiment140,that movie is great #brilliant
+461,1,Sentiment140,I adore that movie #favorite
+1640,1,Sentiment140,this book is the best #thumbs-up
+1905,1,Sentiment140,classical music is brilliant #toptastic
+31,1,Sentiment140,We love that film #loveit
+1246,0,Sentiment140,this team is really bad #worstever
+247,0,Sentiment140,I dislike pop music #rubbish
+74,0,Sentiment140,I hate this game #hateit
+161,1,Sentiment140,I like cheese #brilliant
+761,1,Sentiment140,I like this book #toptastic
+546,0,Sentiment140,I loathe pop music #nightmare
+1042,1,Sentiment140,this book is fantastic #brilliant
+734,0,Sentiment140,I dislike that band #fail
+481,1,Sentiment140,I adore that band #favorite
+235,0,Sentiment140,I dislike this game #rubbish
+218,0,Sentiment140,I hate coffee #rubbish
+400,1,Sentiment140,We adore this team #bestever
+413,1,Sentiment140,I adore jam #bestever
+1053,1,Sentiment140,rock music is fantastic #brilliant
+857,1,Sentiment140,that movie is fantastic #loveit
+1568,1,Sentiment140,this team is great #thumbs-up
+1686,0,Sentiment140,this book is terrible #thumbs-down
+1183,0,Sentiment140,this game is rubbish #rubbish
+55,1,Sentiment140,We adore this team #loveit
+1330,1,Sentiment140,classical music is fantastic #bestever
+409,1,Sentiment140,I adore rock music #bestever
+1027,1,Sentiment140,the holidays is great #brilliant
+1547,0,Sentiment140,that movie is rubbish #nightmare
+1840,0,Sentiment140,cheese is rubbish #fail
+496,0,Sentiment140,I hate summer #nightmare
+997,0,Sentiment140,that film is rubbish #hateit
+1270,0,Sentiment140,this game is rubbish #worstever
+873,1,Sentiment140,jam is fantastic #loveit
+173,1,Sentiment140,I love tea #brilliant
+747,0,Sentiment140,I loathe coffee #fail
+893,1,Sentiment140,classical music is brilliant #loveit
+344,0,Sentiment140,I loathe jam #worstever
+1095,1,Sentiment140,winter is the best #brilliant
+1921,1,Sentiment140,tea is the best #toptastic
+796,1,Sentiment140,I love winter #toptastic
+998,0,Sentiment140,this team is rubbish #hateit
+850,1,Sentiment140,jam is great #loveit
+1341,1,Sentiment140,this book is brilliant #bestever
+508,0,Sentiment140,I dislike this book #nightmare
+1453,1,Sentiment140,this team is the best #favorite
+205,1,Sentiment140,I adore that band #brilliant
+1595,1,Sentiment140,that film is fantastic #thumbs-up
+1343,1,Sentiment140,this team is brilliant #bestever
+568,1,Sentiment140,I like skiing #thumbs-up
+537,0,Sentiment140,We loathe that film #nightmare
+1481,0,Sentiment140,this team is awful #nightmare
+1364,1,Sentiment140,this book is the best #bestever
+362,1,Sentiment140,I like pop music #bestever
+1570,1,Sentiment140,that movie is great #thumbs-up
+1578,1,Sentiment140,winter is great #thumbs-up
+1593,1,Sentiment140,that movie is fantastic #thumbs-up
+862,1,Sentiment140,coffee is fantastic #loveit
+108,0,Sentiment140,I dislike skiing #hateit
+645,0,Sentiment140,I dislike that movie #thumbs-down
+1645,1,Sentiment140,tea is the best #thumbs-up
+1924,1,Sentiment140,the holidays is the best #toptastic
+432,1,Sentiment140,I like rock music #favorite
+1554,0,Sentiment140,summer is rubbish #nightmare
+504,0,Sentiment140,I hate that band #nightmare
+1808,0,Sentiment140,winter is really bad #fail
+539,0,Sentiment140,We loathe this game #nightmare
+319,0,Sentiment140,I dislike this band #worstever
+18,1,Sentiment140,I like rock music #loveit
+303,0,Sentiment140,I dislike this team #worstever
+1660,0,Sentiment140,this team is awful #thumbs-down
+287,0,Sentiment140,I hate coffee #worstever
+250,0,Sentiment140,I dislike this band #rubbish
+665,0,Sentiment140,I dislike that band #thumbs-down
+1844,1,Sentiment140,this team is great #toptastic
+451,1,Sentiment140,I love winter #favorite
+1707,0,Sentiment140,this game is really bad #thumbs-down
+778,1,Sentiment140,I like classical music #toptastic
+1502,0,Sentiment140,this book is terrible #nightmare
+991,0,Sentiment140,this book is rubbish #hateit
+69,1,Sentiment140,I adore cheese #loveit
+597,1,Sentiment140,I love jam #thumbs-up
+133,0,Sentiment140,I loathe rock music #hateit
+314,0,Sentiment140,I dislike the holidays #worstever
+1282,0,Sentiment140,pop music is rubbish #worstever
+149,1,Sentiment140,I like coffee #brilliant
+529,0,Sentiment140,I dislike cheese #nightmare
+1298,1,Sentiment140,this game is great #bestever
+794,1,Sentiment140,I love tea #toptastic
+667,0,Sentiment140,I dislike cheese #thumbs-down
+443,1,Sentiment140,We love that movie #favorite
+1711,0,Sentiment140,this team is really bad #thumbs-down
+1862,1,Sentiment140,jam is great #toptastic
+145,1,Sentiment140,We like this book #brilliant
+90,0,Sentiment140,I hate that band #hateit
+1010,0,Sentiment140,that band is rubbish #hateit
+201,1,Sentiment140,I adore pop music #brilliant
+653,0,Sentiment140,We dislike this team #thumbs-down
+64,1,Sentiment140,I adore rock music #loveit
+1058,1,Sentiment140,cheese is fantastic #brilliant
+759,0,Sentiment140,I loathe cheese #fail
+548,0,Sentiment140,I loathe classical music #nightmare
+689,0,Sentiment140,I loathe jam #thumbs-down
+533,0,Sentiment140,I loathe this team #nightmare
+1729,0,Sentiment140,this team is rubbish #thumbs-down
+654,0,Sentiment140,We dislike this game #thumbs-down
+1442,1,Sentiment140,skiing is brilliant #favorite
+1803,0,Sentiment140,this team is really bad #fail
+501,0,Sentiment140,I hate rock music #nightmare
+136,0,Sentiment140,I loathe that band #hateit
+454,1,Sentiment140,I love pop music #favorite
+1487,0,Sentiment140,the holidays is awful #nightmare
+177,1,Sentiment140,I love skiing #brilliant
+120,0,Sentiment140,I loathe this game #hateit
+1606,1,Sentiment140,classical music is fantastic #thumbs-up
+106,0,Sentiment140,I dislike winter #hateit
+512,0,Sentiment140,We dislike that movie #nightmare
+1789,0,Sentiment140,rock music is terrible #fail
+1857,1,Sentiment140,pop music is great #toptastic
+58,1,Sentiment140,I adore tea #loveit
+1787,0,Sentiment140,skiing is terrible #fail
+809,1,Sentiment140,I adore this team #toptastic
+1468,1,Sentiment140,classical music is the best #favorite
+316,0,Sentiment140,I dislike pop music #worstever
+758,0,Sentiment140,I loathe jam #fail
+124,0,Sentiment140,We loathe this team #hateit
+931,0,Sentiment140,coffee is awful #hateit
+1886,1,Sentiment140,cheese is fantastic #toptastic
+1458,1,Sentiment140,this team is the best #favorite
+275,0,Sentiment140,I loathe jam #rubbish
+929,0,Sentiment140,this team is awful #hateit
+489,0,Sentiment140,We hate that movie #nightmare
+1634,1,Sentiment140,that movie is the best #thumbs-up
+1527,0,Sentiment140,this team is really bad #nightmare
+1049,1,Sentiment140,winter is fantastic #brilliant
+869,1,Sentiment140,rock music is fantastic #loveit
+1334,1,Sentiment140,cheese is fantastic #bestever
+228,0,Sentiment140,I hate that band #rubbish
+450,1,Sentiment140,I love summer #favorite
+268,0,Sentiment140,I loathe the holidays #rubbish
+1908,1,Sentiment140,jam is brilliant #toptastic
+1478,0,Sentiment140,that movie is awful #nightmare
+1319,1,Sentiment140,that film is fantastic #bestever
+1367,1,Sentiment140,this game is the best #bestever
+1696,0,Sentiment140,pop music is terrible #thumbs-down
+1724,0,Sentiment140,jam is really bad #thumbs-down
+452,1,Sentiment140,I love the holidays #favorite
+1201,0,Sentiment140,this game is awful #worstever
+10,1,Sentiment140,We like this game #loveit
+1365,1,Sentiment140,that film is the best #bestever
+1370,1,Sentiment140,summer is the best #bestever
+1097,1,Sentiment140,skiing is the best #brilliant
+1388,1,Sentiment140,that film is great #favorite
+966,0,Sentiment140,cheese is terrible #hateit
+1895,1,Sentiment140,this team is brilliant #toptastic
+1004,0,Sentiment140,the holidays is rubbish #hateit
+1360,1,Sentiment140,that film is the best #bestever
+61,1,Sentiment140,I adore the holidays #loveit
+179,1,Sentiment140,I love rock music #brilliant
+1912,1,Sentiment140,that film is the best #toptastic
+305,0,Sentiment140,We dislike that movie #worstever
+1306,1,Sentiment140,rock music is great #bestever
+1218,0,Sentiment140,jam is awful #worstever
+148,1,Sentiment140,We like this game #brilliant
+431,1,Sentiment140,I like pop music #favorite
+1275,0,Sentiment140,this game is rubbish #worstever
+1295,1,Sentiment140,this book is great #bestever
+11,1,Sentiment140,I like coffee #loveit
+1798,0,Sentiment140,this team is really bad #fail
+944,0,Sentiment140,that movie is terrible #hateit
+779,1,Sentiment140,I like this band #toptastic
+1138,0,Sentiment140,coffee is terrible #rubbish
+236,0,Sentiment140,We dislike that movie #rubbish
+1209,0,Sentiment140,summer is awful #worstever
+352,1,Sentiment140,We like this book #bestever
+1050,1,Sentiment140,the holidays is fantastic #brilliant
+1759,0,Sentiment140,coffee is awful #fail
+646,0,Sentiment140,I dislike this book #thumbs-down
+1222,0,Sentiment140,that film is terrible #worstever
+1467,1,Sentiment140,rock music is the best #favorite
+697,0,Sentiment140,We hate this book #fail
+639,0,Sentiment140,I hate rock music #thumbs-down
+185,1,Sentiment140,I adore that movie #brilliant
+127,0,Sentiment140,I loathe tea #hateit
+462,1,Sentiment140,I adore this book #favorite
+840,1,Sentiment140,tea is great #loveit
+184,1,Sentiment140,I love cheese #brilliant
+1845,1,Sentiment140,this game is great #toptastic
+826,1,Sentiment140,I adore that band #toptastic
+519,0,Sentiment140,I dislike summer #nightmare
+297,0,Sentiment140,I hate that band #worstever
+917,1,Sentiment140,this band is the best #loveit
+607,1,Sentiment140,We adore this team #thumbs-up
+1665,0,Sentiment140,this team is awful #thumbs-down
+1430,1,Sentiment140,this team is brilliant #favorite
+338,0,Sentiment140,I loathe skiing #worstever
+1928,1,Sentiment140,classical music is the best #toptastic
+925,0,Sentiment140,this game is awful #hateit
+1776,0,Sentiment140,this game is terrible #fail
+170,1,Sentiment140,We love this team #brilliant
+240,0,Sentiment140,We dislike this game #rubbish
+1588,1,Sentiment140,that movie is fantastic #thumbs-up
+1497,0,Sentiment140,this book is terrible #nightmare
+679,0,Sentiment140,I loathe tea #thumbs-down
+382,1,Sentiment140,I love winter #bestever
+1847,1,Sentiment140,this book is great #toptastic
+493,0,Sentiment140,We hate this game #nightmare
+1774,0,Sentiment140,that film is terrible #fail
+72,0,Sentiment140,I hate that film #hateit
+1646,1,Sentiment140,summer is the best #thumbs-up
+1879,1,Sentiment140,skiing is fantastic #toptastic
+1732,0,Sentiment140,this book is rubbish #thumbs-down
+255,0,Sentiment140,I loathe this book #rubbish
+499,0,Sentiment140,I hate skiing #nightmare
+1108,0,Sentiment140,this team is awful #rubbish
+1037,1,Sentiment140,this book is fantastic #brilliant
+617,1,Sentiment140,I adore classical music #thumbs-up
+1579,1,Sentiment140,the holidays is great #thumbs-up
+1825,0,Sentiment140,that film is rubbish #fail
+1110,0,Sentiment140,that movie is awful #rubbish
+423,1,Sentiment140,We like this team #favorite
+1746,0,Sentiment140,that band is rubbish #thumbs-down
+312,0,Sentiment140,I dislike summer #worstever
+116,0,Sentiment140,I loathe that movie #hateit
+217,0,Sentiment140,We hate this game #rubbish
+1054,1,Sentiment140,classical music is fantastic #brilliant
+1211,0,Sentiment140,the holidays is awful #worstever
+1223,0,Sentiment140,this team is terrible #worstever
+1893,1,Sentiment140,this book is brilliant #toptastic
+199,1,Sentiment140,I adore the holidays #brilliant
+1476,0,Sentiment140,this team is awful #nightmare
+1446,1,Sentiment140,this band is brilliant #favorite
+1557,0,Sentiment140,skiing is rubbish #nightmare
+927,0,Sentiment140,this book is awful #hateit
+1329,1,Sentiment140,rock music is fantastic #bestever
+1823,0,Sentiment140,that movie is rubbish #fail
+1837,0,Sentiment140,this band is rubbish #fail
+385,1,Sentiment140,I love pop music #bestever
+1267,0,Sentiment140,this book is rubbish #worstever
+582,1,Sentiment140,We love this book #thumbs-up
+286,0,Sentiment140,We hate this game #worstever
+1619,1,Sentiment140,this team is brilliant #thumbs-up
+208,0,Sentiment140,I hate that movie #rubbish
+892,1,Sentiment140,rock music is brilliant #loveit
+348,1,Sentiment140,I like that film #bestever
+1315,1,Sentiment140,this team is fantastic #bestever
+1100,1,Sentiment140,classical music is the best #brilliant
+1699,0,Sentiment140,this band is terrible #thumbs-down
+841,1,Sentiment140,summer is great #loveit
+1869,1,Sentiment140,that movie is fantastic #toptastic
+1057,1,Sentiment140,jam is fantastic #brilliant
+799,1,Sentiment140,I love pop music #toptastic
+277,0,Sentiment140,I hate that movie #worstever
+1566,1,Sentiment140,this book is great #thumbs-up
+824,1,Sentiment140,I adore classical music #toptastic
+1336,1,Sentiment140,this book is brilliant #bestever
+715,0,Sentiment140,I dislike this book #fail
+590,1,Sentiment140,I love the holidays #thumbs-up
+1087,1,Sentiment140,that movie is the best #brilliant
+241,0,Sentiment140,I dislike coffee #rubbish
+714,0,Sentiment140,I dislike that movie #fail
+331,0,Sentiment140,We loathe this team #worstever
+1287,0,Sentiment140,jam is rubbish #worstever
+878,1,Sentiment140,this team is brilliant #loveit
+1763,0,Sentiment140,the holidays is awful #fail
+1187,0,Sentiment140,winter is rubbish #rubbish
+267,0,Sentiment140,I loathe winter #rubbish
+1819,0,Sentiment140,this book is rubbish #fail
+308,0,Sentiment140,We dislike this team #worstever
+1525,0,Sentiment140,this book is really bad #nightmare
+1898,1,Sentiment140,tea is brilliant #toptastic
+1238,0,Sentiment140,classical music is terrible #worstever
+563,1,Sentiment140,I like coffee #thumbs-up
+804,1,Sentiment140,I love jam #toptastic
+345,0,Sentiment140,I loathe cheese #worstever
+866,1,Sentiment140,the holidays is fantastic #loveit
+1259,0,Sentiment140,pop music is really bad #worstever
+1034,1,Sentiment140,jam is great #brilliant
+955,0,Sentiment140,tea is terrible #hateit
+437,1,Sentiment140,I like cheese #favorite
+887,1,Sentiment140,summer is brilliant #loveit
+879,1,Sentiment140,this game is brilliant #loveit
+834,1,Sentiment140,that movie is great #loveit
+1506,0,Sentiment140,coffee is terrible #nightmare
+1219,0,Sentiment140,cheese is awful #worstever
+605,1,Sentiment140,We adore this book #thumbs-up
+1815,0,Sentiment140,that band is really bad #fail
+1662,0,Sentiment140,that movie is awful #thumbs-down
+930,0,Sentiment140,this game is awful #hateit
+107,0,Sentiment140,I dislike the holidays #hateit
+26,1,Sentiment140,I love that film #loveit
+736,0,Sentiment140,I dislike cheese #fail
+701,0,Sentiment140,I hate coffee #fail
+808,1,Sentiment140,I adore that film #toptastic
+1240,0,Sentiment140,that band is terrible #worstever
+1848,1,Sentiment140,that film is great #toptastic
+1394,1,Sentiment140,winter is great #favorite
+1348,1,Sentiment140,winter is brilliant #bestever
+905,1,Sentiment140,that film is the best #loveit
+355,1,Sentiment140,We like this game #bestever
+1676,0,Sentiment140,this band is awful #thumbs-down
+1510,0,Sentiment140,the holidays is terrible #nightmare
+1715,0,Sentiment140,summer is really bad #thumbs-down
+330,0,Sentiment140,We loathe that film #worstever
+555,1,Sentiment140,I like that film #thumbs-up
+114,0,Sentiment140,I dislike jam #hateit
+825,1,Sentiment140,I adore this band #toptastic
+419,1,Sentiment140,I like this game #favorite
+663,0,Sentiment140,I dislike classical music #thumbs-down
+350,1,Sentiment140,I like this game #bestever
+288,0,Sentiment140,I hate tea #worstever
+1861,1,Sentiment140,that band is great #toptastic
+1755,0,Sentiment140,this book is awful #fail
+469,1,Sentiment140,We adore this team #favorite
+1093,1,Sentiment140,tea is the best #brilliant
+1775,0,Sentiment140,this team is terrible #fail
+1440,1,Sentiment140,winter is brilliant #favorite
+410,1,Sentiment140,I adore classical music #bestever
+564,1,Sentiment140,I like tea #thumbs-up
+1393,1,Sentiment140,summer is great #favorite
+1858,1,Sentiment140,rock music is great #toptastic
+1851,1,Sentiment140,coffee is great #toptastic
+650,0,Sentiment140,We dislike that movie #thumbs-down
+652,0,Sentiment140,We dislike that film #thumbs-down
+1471,1,Sentiment140,jam is the best #favorite
+53,1,Sentiment140,We adore this book #loveit
+293,0,Sentiment140,I hate pop music #worstever
+396,1,Sentiment140,I adore this game #bestever
+1836,0,Sentiment140,classical music is rubbish #fail
+155,1,Sentiment140,I like pop music #brilliant
+613,1,Sentiment140,I adore the holidays #thumbs-up
+34,1,Sentiment140,I love coffee #loveit
+706,0,Sentiment140,I hate skiing #fail
+1425,1,Sentiment140,jam is fantastic #favorite
+94,0,Sentiment140,I dislike this book #hateit
+1248,0,Sentiment140,that movie is really bad #worstever
+337,0,Sentiment140,I loathe the holidays #worstever
+1709,0,Sentiment140,this book is really bad #thumbs-down
+1647,1,Sentiment140,winter is the best #thumbs-up
+1197,0,Sentiment140,that movie is awful #worstever
+1920,1,Sentiment140,coffee is the best #toptastic
+1196,0,Sentiment140,cheese is rubbish #rubbish
+203,1,Sentiment140,I adore classical music #brilliant
+1614,1,Sentiment140,this team is brilliant #thumbs-up
+725,0,Sentiment140,I dislike tea #fail
+80,0,Sentiment140,I hate coffee #hateit
+948,0,Sentiment140,this game is terrible #hateit
+383,1,Sentiment140,I love the holidays #bestever
+44,1,Sentiment140,I love that band #loveit
+1303,1,Sentiment140,the holidays is great #bestever
+1483,0,Sentiment140,coffee is awful #nightmare
+928,0,Sentiment140,that film is awful #hateit
+1802,0,Sentiment140,that film is really bad #fail
+1493,0,Sentiment140,that band is awful #nightmare
+996,0,Sentiment140,this book is rubbish #hateit
+624,0,Sentiment140,I hate that film #thumbs-down
+914,1,Sentiment140,pop music is the best #loveit
+1832,0,Sentiment140,the holidays is rubbish #fail
+129,0,Sentiment140,I loathe winter #hateit
+704,0,Sentiment140,I hate winter #fail
+577,1,Sentiment140,I love this book #thumbs-up
+160,1,Sentiment140,I like jam #brilliant
+783,1,Sentiment140,I love that movie #toptastic
+315,0,Sentiment140,I dislike skiing #worstever
+844,1,Sentiment140,skiing is great #loveit
+1150,0,Sentiment140,cheese is terrible #rubbish
+1892,1,Sentiment140,that movie is brilliant #toptastic
+952,0,Sentiment140,this team is terrible #hateit
+1720,0,Sentiment140,rock music is really bad #thumbs-down
+1104,1,Sentiment140,cheese is the best #brilliant
+491,0,Sentiment140,We hate that film #nightmare
+1233,0,Sentiment140,winter is terrible #worstever
+113,0,Sentiment140,I dislike that band #hateit
+1505,0,Sentiment140,this game is terrible #nightmare
+1754,0,Sentiment140,that movie is awful #fail
+924,0,Sentiment140,this team is awful #hateit
+687,0,Sentiment140,I loathe this band #thumbs-down
+674,0,Sentiment140,We loathe this book #thumbs-down
+729,0,Sentiment140,I dislike skiing #fail
+947,0,Sentiment140,this team is terrible #hateit
+515,0,Sentiment140,We dislike this team #nightmare
+35,1,Sentiment140,I love tea #loveit
+239,0,Sentiment140,We dislike this team #rubbish
+587,1,Sentiment140,I love tea #thumbs-up
+151,1,Sentiment140,I like summer #brilliant
+557,1,Sentiment140,I like this game #thumbs-up
+1413,1,Sentiment140,this game is fantastic #favorite
+1250,0,Sentiment140,that film is really bad #worstever
+881,1,Sentiment140,this book is brilliant #loveit
+23,1,Sentiment140,I like cheese #loveit
+531,0,Sentiment140,I loathe this book #nightmare
+1159,0,Sentiment140,this team is really bad #rubbish
+945,0,Sentiment140,this book is terrible #hateit
+358,1,Sentiment140,I like summer #bestever
+1407,1,Sentiment140,this team is fantastic #favorite
+472,1,Sentiment140,I adore tea #favorite
+1739,0,Sentiment140,winter is rubbish #thumbs-down
+909,1,Sentiment140,tea is the best #loveit
+977,0,Sentiment140,coffee is really bad #hateit
+1507,0,Sentiment140,tea is terrible #nightmare
+1680,0,Sentiment140,that movie is terrible #thumbs-down
+1474,0,Sentiment140,this book is awful #nightmare
+978,0,Sentiment140,tea is really bad #hateit
+1290,1,Sentiment140,this book is great #bestever
+1708,0,Sentiment140,that movie is really bad #thumbs-down
+311,0,Sentiment140,I dislike tea #worstever
+1638,1,Sentiment140,this game is the best #thumbs-up
+1424,1,Sentiment140,that band is fantastic #favorite
+1047,1,Sentiment140,tea is fantastic #brilliant
+243,0,Sentiment140,I dislike summer #rubbish
+1189,0,Sentiment140,skiing is rubbish #rubbish
+1651,1,Sentiment140,rock music is the best #thumbs-up
+1257,0,Sentiment140,the holidays is really bad #worstever
+507,0,Sentiment140,I dislike that movie #nightmare
+1778,0,Sentiment140,this book is terrible #fail
+1713,0,Sentiment140,coffee is really bad #thumbs-down
+1212,0,Sentiment140,skiing is awful #worstever
+1674,0,Sentiment140,rock music is awful #thumbs-down
+1061,1,Sentiment140,that film is brilliant #brilliant
+1632,1,Sentiment140,jam is brilliant #thumbs-up
+200,1,Sentiment140,I adore skiing #brilliant
+186,1,Sentiment140,I adore this book #brilliant
+13,1,Sentiment140,I like summer #loveit
+788,1,Sentiment140,We love that movie #toptastic
+1408,1,Sentiment140,this game is fantastic #favorite
+728,0,Sentiment140,I dislike the holidays #fail
+694,0,Sentiment140,I hate this team #fail
+888,1,Sentiment140,winter is brilliant #loveit
+1289,1,Sentiment140,that movie is great #bestever
+336,0,Sentiment140,I loathe winter #worstever
+775,1,Sentiment140,I like skiing #toptastic
+625,0,Sentiment140,I hate this team #thumbs-down
+1096,1,Sentiment140,the holidays is the best #brilliant
+974,0,Sentiment140,that film is really bad #hateit
+1114,0,Sentiment140,this game is awful #rubbish
+1180,0,Sentiment140,this book is rubbish #rubbish
+883,1,Sentiment140,this team is brilliant #loveit
+1551,0,Sentiment140,this game is rubbish #nightmare
+1354,1,Sentiment140,this band is brilliant #bestever
+460,1,Sentiment140,I love cheese #favorite
+22,1,Sentiment140,I like jam #loveit
+1555,0,Sentiment140,winter is rubbish #nightmare
+690,0,Sentiment140,I loathe cheese #thumbs-down
+1022,1,Sentiment140,this game is great #brilliant
+1834,0,Sentiment140,pop music is rubbish #fail
+511,0,Sentiment140,I dislike this game #nightmare
+1515,0,Sentiment140,this band is terrible #nightmare
+1889,1,Sentiment140,that film is brilliant #toptastic
+394,1,Sentiment140,I adore that film #bestever
+1672,0,Sentiment140,skiing is awful #thumbs-down
+1188,0,Sentiment140,the holidays is rubbish #rubbish
+1880,1,Sentiment140,pop music is fantastic #toptastic
+324,0,Sentiment140,I loathe this book #worstever
+682,0,Sentiment140,I loathe the holidays #thumbs-down
+919,1,Sentiment140,jam is the best #loveit
+1208,0,Sentiment140,tea is awful #worstever
+1569,1,Sentiment140,this game is great #thumbs-up
+1429,1,Sentiment140,that film is brilliant #favorite
+1210,0,Sentiment140,winter is awful #worstever
+782,1,Sentiment140,I like cheese #toptastic
+1655,1,Sentiment140,jam is the best #thumbs-up
+987,0,Sentiment140,that band is really bad #hateit
+146,1,Sentiment140,We like that film #brilliant
+1244,0,Sentiment140,this book is really bad #worstever
+1358,1,Sentiment140,that movie is the best #bestever
+154,1,Sentiment140,I like skiing #brilliant
+140,1,Sentiment140,I like this book #brilliant
+33,1,Sentiment140,We love this game #loveit
+1091,1,Sentiment140,this game is the best #brilliant
+1216,0,Sentiment140,this band is awful #worstever
+386,1,Sentiment140,I love rock music #bestever
+522,0,Sentiment140,I dislike skiing #nightmare
+1361,1,Sentiment140,this team is the best #bestever
+1015,1,Sentiment140,that film is great #brilliant
+276,0,Sentiment140,I loathe cheese #rubbish
+8,1,Sentiment140,We like that film #loveit
+1288,0,Sentiment140,cheese is rubbish #worstever
+1536,0,Sentiment140,rock music is really bad #nightmare
+62,1,Sentiment140,I adore skiing #loveit
+1131,0,Sentiment140,this team is terrible #rubbish
+837,1,Sentiment140,this team is great #loveit
+220,0,Sentiment140,I hate summer #rubbish
+1356,1,Sentiment140,jam is brilliant #bestever
+50,1,Sentiment140,I adore this team #loveit
+175,1,Sentiment140,I love winter #brilliant
+1265,0,Sentiment140,cheese is really bad #worstever
+1263,0,Sentiment140,that band is really bad #worstever
+1558,0,Sentiment140,pop music is rubbish #nightmare
+1780,0,Sentiment140,this team is terrible #fail
+376,1,Sentiment140,We love that film #bestever
+544,0,Sentiment140,I loathe the holidays #nightmare
+1636,1,Sentiment140,that film is the best #thumbs-up
+638,0,Sentiment140,I hate pop music #thumbs-down
+1682,0,Sentiment140,that film is terrible #thumbs-down
+225,0,Sentiment140,I hate rock music #rubbish
+901,1,Sentiment140,this team is the best #loveit
+1427,1,Sentiment140,that movie is brilliant #favorite
+1700,0,Sentiment140,that band is terrible #thumbs-down
+1314,1,Sentiment140,that film is fantastic #bestever
+457,1,Sentiment140,I love this band #favorite
+1472,1,Sentiment140,cheese is the best #favorite
+513,0,Sentiment140,We dislike this book #nightmare
+1001,0,Sentiment140,tea is rubbish #hateit
+5,1,Sentiment140,I like this game #loveit
+485,0,Sentiment140,I hate this book #nightmare
+259,0,Sentiment140,We loathe that movie #rubbish
+1631,1,Sentiment140,that band is brilliant #thumbs-up
+290,0,Sentiment140,I hate winter #worstever
+1813,0,Sentiment140,classical music is really bad #fail
+540,0,Sentiment140,I loathe coffee #nightmare
+81,0,Sentiment140,I hate tea #hateit
+1134,0,Sentiment140,this book is terrible #rubbish
+953,0,Sentiment140,this game is terrible #hateit
+1560,0,Sentiment140,classical music is rubbish #nightmare
+845,1,Sentiment140,pop music is great #loveit
+1261,0,Sentiment140,classical music is really bad #worstever
+1519,0,Sentiment140,that movie is really bad #nightmare
+1112,0,Sentiment140,that film is awful #rubbish
+1683,0,Sentiment140,this team is terrible #thumbs-down
+401,1,Sentiment140,We adore this game #bestever
+1122,0,Sentiment140,rock music is awful #rubbish
+1309,1,Sentiment140,that band is great #bestever
+1800,0,Sentiment140,that movie is really bad #fail
+1155,0,Sentiment140,this game is really bad #rubbish
+1158,0,Sentiment140,that film is really bad #rubbish
+545,0,Sentiment140,I loathe skiing #nightmare
+1059,1,Sentiment140,that movie is brilliant #brilliant
+1016,1,Sentiment140,this team is great #brilliant
+325,0,Sentiment140,I loathe that film #worstever
+1679,0,Sentiment140,cheese is awful #thumbs-down
+1129,0,Sentiment140,this book is terrible #rubbish
+939,0,Sentiment140,classical music is awful #hateit
+418,1,Sentiment140,I like this team #favorite
+367,1,Sentiment140,I like jam #bestever
+1843,1,Sentiment140,that film is great #toptastic
+793,1,Sentiment140,I love coffee #toptastic
+756,0,Sentiment140,I loathe this band #fail
+1020,1,Sentiment140,that film is great #brilliant
+1040,1,Sentiment140,this game is fantastic #brilliant
+757,0,Sentiment140,I loathe that band #fail
+1740,0,Sentiment140,the holidays is rubbish #thumbs-down
+1750,0,Sentiment140,this book is awful #fail
+1277,0,Sentiment140,tea is rubbish #worstever
+1522,0,Sentiment140,this team is really bad #nightmare
+742,0,Sentiment140,We loathe that movie #fail
+152,1,Sentiment140,I like winter #brilliant
+1271,0,Sentiment140,that movie is rubbish #worstever
+138,0,Sentiment140,I loathe cheese #hateit
+43,1,Sentiment140,I love this band #loveit
+870,1,Sentiment140,classical music is fantastic #loveit
+762,1,Sentiment140,I like that film #toptastic
+811,1,Sentiment140,We adore that movie #toptastic
+722,0,Sentiment140,We dislike this team #fail
+464,1,Sentiment140,I adore this team #favorite
+1710,0,Sentiment140,that film is really bad #thumbs-down
+144,1,Sentiment140,We like that movie #brilliant
+1179,0,Sentiment140,that movie is rubbish #rubbish
+1182,0,Sentiment140,this team is rubbish #rubbish
+38,1,Sentiment140,I love the holidays #loveit
+476,1,Sentiment140,I adore skiing #favorite
+770,1,Sentiment140,I like coffee #toptastic
+594,1,Sentiment140,I love classical music #thumbs-up
+1450,1,Sentiment140,that movie is the best #favorite
+1381,1,Sentiment140,that movie is great #favorite
+1007,0,Sentiment140,rock music is rubbish #hateit
+1621,1,Sentiment140,coffee is brilliant #thumbs-up
+1783,0,Sentiment140,tea is terrible #fail
+1903,1,Sentiment140,pop music is brilliant #toptastic
+1452,1,Sentiment140,that film is the best #favorite
+556,1,Sentiment140,I like this team #thumbs-up
+294,0,Sentiment140,I hate rock music #worstever
+1146,0,Sentiment140,classical music is terrible #rubbish
+375,1,Sentiment140,We love this book #bestever
+1762,0,Sentiment140,winter is awful #fail
+1884,1,Sentiment140,that band is fantastic #toptastic
+732,0,Sentiment140,I dislike classical music #fail
+1786,0,Sentiment140,the holidays is terrible #fail
+1930,1,Sentiment140,that band is the best #toptastic
+1090,1,Sentiment140,this team is the best #brilliant
+1602,1,Sentiment140,the holidays is fantastic #thumbs-up
+371,1,Sentiment140,I love that film #bestever
+640,0,Sentiment140,I hate classical music #thumbs-down
+29,1,Sentiment140,We love that movie #loveit
+1906,1,Sentiment140,this band is brilliant #toptastic
+592,1,Sentiment140,I love pop music #thumbs-up
+885,1,Sentiment140,coffee is brilliant #loveit
+40,1,Sentiment140,I love pop music #loveit
+1133,0,Sentiment140,that movie is terrible #rubbish
+1168,0,Sentiment140,rock music is really bad #rubbish
+980,0,Sentiment140,winter is really bad #hateit
+346,1,Sentiment140,I like that movie #bestever
+693,0,Sentiment140,I hate that film #fail
+1913,1,Sentiment140,this team is the best #toptastic
+1685,0,Sentiment140,that movie is terrible #thumbs-down
+549,0,Sentiment140,I loathe this band #nightmare
+156,1,Sentiment140,I like rock music #brilliant
+1902,1,Sentiment140,skiing is brilliant #toptastic
+405,1,Sentiment140,I adore winter #bestever
+1749,0,Sentiment140,that movie is awful #fail
+743,0,Sentiment140,We loathe this book #fail
+374,1,Sentiment140,We love that movie #bestever
+436,1,Sentiment140,I like jam #favorite
+1513,0,Sentiment140,rock music is terrible #nightmare
+1111,0,Sentiment140,this book is awful #rubbish
+455,1,Sentiment140,I love rock music #favorite
+1152,0,Sentiment140,this book is really bad #rubbish
+705,0,Sentiment140,I hate the holidays #fail
+459,1,Sentiment140,I love jam #favorite
+1125,0,Sentiment140,that band is awful #rubbish
+351,1,Sentiment140,We like that movie #bestever
+70,0,Sentiment140,I hate that movie #hateit
+1006,0,Sentiment140,pop music is rubbish #hateit
+525,0,Sentiment140,I dislike classical music #nightmare
+1202,0,Sentiment140,that movie is awful #worstever
+1854,1,Sentiment140,winter is great #toptastic
+1628,1,Sentiment140,rock music is brilliant #thumbs-up
+488,0,Sentiment140,I hate this game #nightmare
+492,0,Sentiment140,We hate this team #nightmare
+897,1,Sentiment140,cheese is brilliant #loveit
+1598,1,Sentiment140,coffee is fantastic #thumbs-up
+1451,1,Sentiment140,this book is the best #favorite
+1030,1,Sentiment140,rock music is great #brilliant
+153,1,Sentiment140,I like the holidays #brilliant
+528,0,Sentiment140,I dislike jam #nightmare
+46,1,Sentiment140,I love cheese #loveit
+67,1,Sentiment140,I adore that band #loveit
+1809,0,Sentiment140,the holidays is really bad #fail
+968,0,Sentiment140,this book is really bad #hateit
+836,1,Sentiment140,that film is great #loveit
+575,1,Sentiment140,I like cheese #thumbs-up
+414,1,Sentiment140,I adore cheese #bestever
+822,1,Sentiment140,I adore pop music #toptastic
+890,1,Sentiment140,skiing is brilliant #loveit
+176,1,Sentiment140,I love the holidays #brilliant
+1369,1,Sentiment140,tea is the best #bestever
+606,1,Sentiment140,We adore that film #thumbs-up
+812,1,Sentiment140,We adore this book #toptastic
+1753,0,Sentiment140,this game is awful #fail
+1439,1,Sentiment140,summer is brilliant #favorite
+1403,1,Sentiment140,cheese is great #favorite
+1101,1,Sentiment140,this band is the best #brilliant
+680,0,Sentiment140,I loathe summer #thumbs-down
+971,0,Sentiment140,this game is really bad #hateit
+1385,1,Sentiment140,this game is great #favorite
+739,0,Sentiment140,I loathe that film #fail
+1342,1,Sentiment140,that film is brilliant #bestever
+1910,1,Sentiment140,that movie is the best #toptastic
+1881,1,Sentiment140,rock music is fantastic #toptastic
+1281,0,Sentiment140,skiing is rubbish #worstever
+737,0,Sentiment140,I loathe that movie #fail
+911,1,Sentiment140,winter is the best #loveit
+1142,0,Sentiment140,the holidays is terrible #rubbish
+855,1,Sentiment140,this team is fantastic #loveit
+992,0,Sentiment140,that film is rubbish #hateit
+1204,0,Sentiment140,that film is awful #worstever
+1283,0,Sentiment140,rock music is rubbish #worstever
+510,0,Sentiment140,I dislike this team #nightmare
+989,0,Sentiment140,cheese is really bad #hateit
+558,1,Sentiment140,We like that movie #thumbs-up
+1447,1,Sentiment140,that band is brilliant #favorite
+1046,1,Sentiment140,coffee is fantastic #brilliant
+918,1,Sentiment140,that band is the best #loveit
+586,1,Sentiment140,I love coffee #thumbs-up
+1072,1,Sentiment140,winter is brilliant #brilliant
+760,1,Sentiment140,I like that movie #toptastic
+677,0,Sentiment140,We loathe this game #thumbs-down
+1689,0,Sentiment140,this game is terrible #thumbs-down
+657,0,Sentiment140,I dislike summer #thumbs-down
+1192,0,Sentiment140,classical music is rubbish #rubbish
+655,0,Sentiment140,I dislike coffee #thumbs-down
+487,0,Sentiment140,I hate this team #nightmare
+518,0,Sentiment140,I dislike tea #nightmare
+1517,0,Sentiment140,jam is terrible #nightmare
+1351,1,Sentiment140,pop music is brilliant #bestever
+1036,1,Sentiment140,that movie is fantastic #brilliant
+25,1,Sentiment140,I love this book #loveit
+828,1,Sentiment140,I adore cheese #toptastic
+1687,0,Sentiment140,that film is terrible #thumbs-down
+104,0,Sentiment140,I dislike tea #hateit
+257,0,Sentiment140,I loathe this team #rubbish
+289,0,Sentiment140,I hate summer #worstever
+1694,0,Sentiment140,the holidays is terrible #thumbs-down
+1399,1,Sentiment140,classical music is great #favorite
+99,0,Sentiment140,We dislike this book #hateit
+1106,0,Sentiment140,this book is awful #rubbish
+926,0,Sentiment140,that movie is awful #hateit
+1278,0,Sentiment140,summer is rubbish #worstever
+278,0,Sentiment140,I hate this book #worstever
+456,1,Sentiment140,I love classical music #favorite
+229,0,Sentiment140,I hate jam #rubbish
+1195,0,Sentiment140,jam is rubbish #rubbish
+1273,0,Sentiment140,that film is rubbish #worstever
+1855,1,Sentiment140,the holidays is great #toptastic
+1206,0,Sentiment140,this game is awful #worstever
+1765,0,Sentiment140,pop music is awful #fail
+1820,0,Sentiment140,that film is rubbish #fail
+628,0,Sentiment140,We hate this book #thumbs-down
+430,1,Sentiment140,I like skiing #favorite
+820,1,Sentiment140,I adore the holidays #toptastic
+1175,0,Sentiment140,this book is rubbish #rubbish
+724,0,Sentiment140,I dislike coffee #fail
+982,0,Sentiment140,skiing is really bad #hateit
+1313,1,Sentiment140,this book is fantastic #bestever
+1824,0,Sentiment140,this book is rubbish #fail
+1128,0,Sentiment140,that movie is terrible #rubbish
+1610,1,Sentiment140,cheese is fantastic #thumbs-up
+700,0,Sentiment140,We hate this game #fail
+298,0,Sentiment140,I hate jam #worstever
+1831,0,Sentiment140,winter is rubbish #fail
+1626,1,Sentiment140,skiing is brilliant #thumbs-up
+1830,0,Sentiment140,summer is rubbish #fail
+1585,1,Sentiment140,that band is great #thumbs-up
+1025,1,Sentiment140,summer is great #brilliant
+224,0,Sentiment140,I hate pop music #rubbish
+1079,1,Sentiment140,that band is brilliant #brilliant
+123,0,Sentiment140,We loathe that film #hateit
+1260,0,Sentiment140,rock music is really bad #worstever
+691,0,Sentiment140,I hate that movie #fail
+135,0,Sentiment140,I loathe this band #hateit
+1308,1,Sentiment140,this band is great #bestever
+1846,1,Sentiment140,that movie is great #toptastic
+1511,0,Sentiment140,skiing is terrible #nightmare
+1163,0,Sentiment140,summer is really bad #rubbish
+1410,1,Sentiment140,this book is fantastic #favorite
+180,1,Sentiment140,I love classical music #brilliant
+1066,1,Sentiment140,that film is brilliant #brilliant
+1322,1,Sentiment140,coffee is fantastic #bestever
+772,1,Sentiment140,I like summer #toptastic
+1232,0,Sentiment140,summer is terrible #worstever
+1380,1,Sentiment140,cheese is the best #bestever
+494,0,Sentiment140,I hate coffee #nightmare
+886,1,Sentiment140,tea is brilliant #loveit
+1828,0,Sentiment140,coffee is rubbish #fail
+1923,1,Sentiment140,winter is the best #toptastic
+946,0,Sentiment140,that film is terrible #hateit
+323,0,Sentiment140,I loathe that movie #worstever
+364,1,Sentiment140,I like classical music #bestever
+381,1,Sentiment140,I love summer #bestever
+616,1,Sentiment140,I adore rock music #thumbs-up
+1139,0,Sentiment140,tea is terrible #rubbish
+86,0,Sentiment140,I hate pop music #hateit
+676,0,Sentiment140,We loathe this team #thumbs-down
+603,1,Sentiment140,I adore this game #thumbs-up
+1048,1,Sentiment140,summer is fantastic #brilliant
+1868,1,Sentiment140,this game is fantastic #toptastic
+1153,0,Sentiment140,that film is really bad #rubbish
+815,1,Sentiment140,We adore this game #toptastic
+765,1,Sentiment140,We like that movie #toptastic
+1051,1,Sentiment140,skiing is fantastic #brilliant
+1069,1,Sentiment140,coffee is brilliant #brilliant
+372,1,Sentiment140,I love this team #bestever
+213,0,Sentiment140,We hate that movie #rubbish
+1529,0,Sentiment140,coffee is really bad #nightmare
+1345,1,Sentiment140,coffee is brilliant #bestever
+438,1,Sentiment140,I love that movie #favorite
+949,0,Sentiment140,that movie is terrible #hateit
+1,1,Sentiment140,I like that movie #loveit
+538,0,Sentiment140,We loathe this team #nightmare
+764,1,Sentiment140,I like this game #toptastic
+318,0,Sentiment140,I dislike classical music #worstever
+1692,0,Sentiment140,summer is terrible #thumbs-down
+1701,0,Sentiment140,jam is terrible #thumbs-down
+1901,1,Sentiment140,the holidays is brilliant #toptastic
+1705,0,Sentiment140,that film is really bad #thumbs-down
+1086,1,Sentiment140,this game is the best #brilliant
+995,0,Sentiment140,that movie is rubbish #hateit
+391,1,Sentiment140,I love cheese #bestever
+1876,1,Sentiment140,summer is fantastic #toptastic
+635,0,Sentiment140,I hate winter #thumbs-down
+306,0,Sentiment140,We dislike this book #worstever
+1323,1,Sentiment140,tea is fantastic #bestever
+1060,1,Sentiment140,this book is brilliant #brilliant
+1119,0,Sentiment140,the holidays is awful #rubbish
+1867,1,Sentiment140,this team is fantastic #toptastic
+859,1,Sentiment140,that film is fantastic #loveit
+710,0,Sentiment140,I hate this band #fail
+1725,0,Sentiment140,cheese is really bad #thumbs-down
+1359,1,Sentiment140,this book is the best #bestever
+1456,1,Sentiment140,this book is the best #favorite
+1448,1,Sentiment140,jam is brilliant #favorite
+1411,1,Sentiment140,that film is fantastic #favorite
+1461,1,Sentiment140,tea is the best #favorite
+1014,1,Sentiment140,this book is great #brilliant
+1690,0,Sentiment140,coffee is terrible #thumbs-down
+1145,0,Sentiment140,rock music is terrible #rubbish
+215,0,Sentiment140,We hate that film #rubbish
+1833,0,Sentiment140,skiing is rubbish #fail
+1400,1,Sentiment140,this band is great #favorite
+471,1,Sentiment140,I adore coffee #favorite
+1702,0,Sentiment140,cheese is terrible #thumbs-down
+1514,0,Sentiment140,classical music is terrible #nightmare
+1207,0,Sentiment140,coffee is awful #worstever
+1656,1,Sentiment140,cheese is the best #thumbs-up
+1927,1,Sentiment140,rock music is the best #toptastic
+1160,0,Sentiment140,this game is really bad #rubbish
+1811,0,Sentiment140,pop music is really bad #fail
+876,1,Sentiment140,this book is brilliant #loveit
+378,1,Sentiment140,We love this game #bestever
+1885,1,Sentiment140,jam is fantastic #toptastic
+1669,0,Sentiment140,summer is awful #thumbs-down
+675,0,Sentiment140,We loathe that film #thumbs-down
+600,1,Sentiment140,I adore this book #thumbs-up
+1391,1,Sentiment140,coffee is great #favorite
+1123,0,Sentiment140,classical music is awful #rubbish
+1200,0,Sentiment140,this team is awful #worstever
+569,1,Sentiment140,I like pop music #thumbs-up
+752,0,Sentiment140,I loathe skiing #fail
+1627,1,Sentiment140,pop music is brilliant #thumbs-up
+868,1,Sentiment140,pop music is fantastic #loveit
+237,0,Sentiment140,We dislike this book #rubbish
+1530,0,Sentiment140,tea is really bad #nightmare
+1849,1,Sentiment140,this team is great #toptastic
+1164,0,Sentiment140,winter is really bad #rubbish
+1279,0,Sentiment140,winter is rubbish #worstever
+274,0,Sentiment140,I loathe that band #rubbish
+1790,0,Sentiment140,classical music is terrible #fail
+1102,1,Sentiment140,that band is the best #brilliant
+1274,0,Sentiment140,this team is rubbish #worstever
+763,1,Sentiment140,I like this team #toptastic
+1317,1,Sentiment140,that movie is fantastic #bestever
+1520,0,Sentiment140,this book is really bad #nightmare
+171,1,Sentiment140,We love this game #brilliant
+1466,1,Sentiment140,pop music is the best #favorite
+1488,0,Sentiment140,skiing is awful #nightmare
+54,1,Sentiment140,We adore that film #loveit
+166,1,Sentiment140,I love this game #brilliant
+445,1,Sentiment140,We love that film #favorite
+1919,1,Sentiment140,this game is the best #toptastic
+1417,1,Sentiment140,winter is fantastic #favorite
+1752,0,Sentiment140,this team is awful #fail
+433,1,Sentiment140,I like classical music #favorite
+1426,1,Sentiment140,cheese is fantastic #favorite
+668,0,Sentiment140,I loathe that movie #thumbs-down
+1026,1,Sentiment140,winter is great #brilliant
+719,0,Sentiment140,We dislike that movie #fail
+28,1,Sentiment140,I love this game #loveit
+12,1,Sentiment140,I like tea #loveit
+284,0,Sentiment140,We hate that film #worstever
+803,1,Sentiment140,I love that band #toptastic
+387,1,Sentiment140,I love classical music #bestever
+1307,1,Sentiment140,classical music is great #bestever
+505,0,Sentiment140,I hate jam #nightmare
+595,1,Sentiment140,I love this band #thumbs-up
+1745,0,Sentiment140,this band is rubbish #thumbs-down
+620,1,Sentiment140,I adore jam #thumbs-up
+810,1,Sentiment140,I adore this game #toptastic
+1499,0,Sentiment140,this team is terrible #nightmare
+172,1,Sentiment140,I love coffee #brilliant
+1495,0,Sentiment140,cheese is awful #nightmare
+1664,0,Sentiment140,that film is awful #thumbs-down
+1115,0,Sentiment140,coffee is awful #rubbish
+849,1,Sentiment140,that band is great #loveit
+1316,1,Sentiment140,this game is fantastic #bestever
+1462,1,Sentiment140,summer is the best #favorite
+1605,1,Sentiment140,rock music is fantastic #thumbs-up
+1107,0,Sentiment140,that film is awful #rubbish
+1377,1,Sentiment140,this band is the best #bestever
+1657,0,Sentiment140,that movie is awful #thumbs-down
+60,1,Sentiment140,I adore winter #loveit
+1504,0,Sentiment140,this team is terrible #nightmare
+576,1,Sentiment140,I love that movie #thumbs-up
+838,1,Sentiment140,this game is great #loveit
+110,0,Sentiment140,I dislike rock music #hateit
+1251,0,Sentiment140,this team is really bad #worstever
+578,1,Sentiment140,I love that film #thumbs-up
+1280,0,Sentiment140,the holidays is rubbish #worstever
+658,0,Sentiment140,I dislike winter #thumbs-down
+1633,1,Sentiment140,cheese is brilliant #thumbs-up
+707,0,Sentiment140,I hate pop music #fail
+1581,1,Sentiment140,pop music is great #thumbs-up
+1909,1,Sentiment140,cheese is brilliant #toptastic
+71,0,Sentiment140,I hate this book #hateit
+790,1,Sentiment140,We love that film #toptastic
+771,1,Sentiment140,I like tea #toptastic
+1716,0,Sentiment140,winter is really bad #thumbs-down
+711,0,Sentiment140,I hate that band #fail
+1126,0,Sentiment140,jam is awful #rubbish
+750,0,Sentiment140,I loathe winter #fail
+1917,1,Sentiment140,that film is the best #toptastic
+1332,1,Sentiment140,that band is fantastic #bestever
+1563,0,Sentiment140,jam is rubbish #nightmare
+932,0,Sentiment140,tea is awful #hateit
+662,0,Sentiment140,I dislike rock music #thumbs-down
+604,1,Sentiment140,We adore that movie #thumbs-up
+131,0,Sentiment140,I loathe skiing #hateit
+1455,1,Sentiment140,that movie is the best #favorite
+361,1,Sentiment140,I like skiing #bestever
+1194,0,Sentiment140,that band is rubbish #rubbish
+1340,1,Sentiment140,that movie is brilliant #bestever
+1539,0,Sentiment140,that band is really bad #nightmare
+858,1,Sentiment140,this book is fantastic #loveit
+671,0,Sentiment140,I loathe this team #thumbs-down
+1873,1,Sentiment140,this game is fantastic #toptastic
+1779,0,Sentiment140,that film is terrible #fail
+17,1,Sentiment140,I like pop music #loveit
+904,1,Sentiment140,this book is the best #loveit
+273,0,Sentiment140,I loathe this band #rubbish
+1161,0,Sentiment140,coffee is really bad #rubbish
+1556,0,Sentiment140,the holidays is rubbish #nightmare
+295,0,Sentiment140,I hate classical music #worstever
+584,1,Sentiment140,We love this team #thumbs-up
+157,1,Sentiment140,I like classical music #brilliant
+1731,0,Sentiment140,that movie is rubbish #thumbs-down
+1412,1,Sentiment140,this team is fantastic #favorite
+1882,1,Sentiment140,classical music is fantastic #toptastic
+449,1,Sentiment140,I love tea #favorite
+1231,0,Sentiment140,tea is terrible #worstever
+672,0,Sentiment140,I loathe this game #thumbs-down
+1630,1,Sentiment140,this band is brilliant #thumbs-up
+1599,1,Sentiment140,tea is fantastic #thumbs-up
+234,0,Sentiment140,I dislike this team #rubbish
+1818,0,Sentiment140,that movie is rubbish #fail
+1005,0,Sentiment140,skiing is rubbish #hateit
+1390,1,Sentiment140,this game is great #favorite
+755,0,Sentiment140,I loathe classical music #fail
+1162,0,Sentiment140,tea is really bad #rubbish
+1225,0,Sentiment140,that movie is terrible #worstever
+174,1,Sentiment140,I love summer #brilliant
+979,0,Sentiment140,summer is really bad #hateit
+1899,1,Sentiment140,summer is brilliant #toptastic
+1592,1,Sentiment140,this game is fantastic #thumbs-up
+1253,0,Sentiment140,coffee is really bad #worstever
+1449,1,Sentiment140,cheese is brilliant #favorite
+524,0,Sentiment140,I dislike rock music #nightmare
+1272,0,Sentiment140,this book is rubbish #worstever
+197,1,Sentiment140,I adore summer #brilliant
+421,1,Sentiment140,We like this book #favorite
+684,0,Sentiment140,I loathe pop music #thumbs-down
+1770,0,Sentiment140,jam is awful #fail
+1423,1,Sentiment140,this band is fantastic #favorite
+726,0,Sentiment140,I dislike summer #fail
+1264,0,Sentiment140,jam is really bad #worstever
+1339,1,Sentiment140,this game is brilliant #bestever
+875,1,Sentiment140,that movie is brilliant #loveit
+1629,1,Sentiment140,classical music is brilliant #thumbs-up
+1667,0,Sentiment140,coffee is awful #thumbs-down
+985,0,Sentiment140,classical music is really bad #hateit
+1355,1,Sentiment140,that band is brilliant #bestever
+328,0,Sentiment140,We loathe that movie #worstever
+749,0,Sentiment140,I loathe summer #fail
+698,0,Sentiment140,We hate that film #fail
+122,0,Sentiment140,We loathe this book #hateit
+1067,1,Sentiment140,this team is brilliant #brilliant
+1445,1,Sentiment140,classical music is brilliant #favorite
+1684,0,Sentiment140,this game is terrible #thumbs-down
+473,1,Sentiment140,I adore summer #favorite
+1214,0,Sentiment140,rock music is awful #worstever
+490,0,Sentiment140,We hate this book #nightmare
+1538,0,Sentiment140,this band is really bad #nightmare
+1611,1,Sentiment140,that movie is brilliant #thumbs-up
+970,0,Sentiment140,this team is really bad #hateit
+310,0,Sentiment140,I dislike coffee #worstever
+551,0,Sentiment140,I loathe jam #nightmare
+369,1,Sentiment140,I love that movie #bestever
+1615,1,Sentiment140,this game is brilliant #thumbs-up
+52,1,Sentiment140,We adore that movie #loveit
+503,0,Sentiment140,I hate this band #nightmare
+1773,0,Sentiment140,this book is terrible #fail
+326,0,Sentiment140,I loathe this team #worstever
+956,0,Sentiment140,summer is terrible #hateit
+588,1,Sentiment140,I love summer #thumbs-up
+195,1,Sentiment140,I adore coffee #brilliant
+265,0,Sentiment140,I loathe tea #rubbish
+1748,0,Sentiment140,cheese is rubbish #thumbs-down
+100,0,Sentiment140,We dislike that film #hateit
+1643,1,Sentiment140,this game is the best #thumbs-up
+1021,1,Sentiment140,this team is great #brilliant
+988,0,Sentiment140,jam is really bad #hateit
+526,0,Sentiment140,I dislike this band #nightmare
+1167,0,Sentiment140,pop music is really bad #rubbish
+907,1,Sentiment140,this game is the best #loveit
+1663,0,Sentiment140,this book is awful #thumbs-down
+1503,0,Sentiment140,that film is terrible #nightmare
+889,1,Sentiment140,the holidays is brilliant #loveit
+644,0,Sentiment140,I hate cheese #thumbs-down
+1788,0,Sentiment140,pop music is terrible #fail
+753,0,Sentiment140,I loathe pop music #fail
+1548,0,Sentiment140,this book is rubbish #nightmare
+317,0,Sentiment140,I dislike rock music #worstever
+1791,0,Sentiment140,this band is terrible #fail
+643,0,Sentiment140,I hate jam #thumbs-down
+1691,0,Sentiment140,tea is terrible #thumbs-down
+1616,1,Sentiment140,that movie is brilliant #thumbs-up
+1463,1,Sentiment140,winter is the best #favorite
+21,1,Sentiment140,I like that band #loveit
+36,1,Sentiment140,I love summer #loveit
+1301,1,Sentiment140,summer is great #bestever
+1618,1,Sentiment140,that film is brilliant #thumbs-up
+1352,1,Sentiment140,rock music is brilliant #bestever
+608,1,Sentiment140,We adore this game #thumbs-up
+87,0,Sentiment140,I hate rock music #hateit
+1541,0,Sentiment140,cheese is really bad #nightmare
+231,0,Sentiment140,I dislike that movie #rubbish
+1768,0,Sentiment140,this band is awful #fail
+1850,1,Sentiment140,this game is great #toptastic
+1810,0,Sentiment140,skiing is really bad #fail
+429,1,Sentiment140,I like the holidays #favorite
+109,0,Sentiment140,I dislike pop music #hateit
+863,1,Sentiment140,tea is fantastic #loveit
+1863,1,Sentiment140,cheese is great #toptastic
+1932,1,Sentiment140,cheese is the best #toptastic
+198,1,Sentiment140,I adore winter #brilliant
+59,1,Sentiment140,I adore summer #loveit
+1227,0,Sentiment140,that film is terrible #worstever
+517,0,Sentiment140,I dislike coffee #nightmare
+1535,0,Sentiment140,pop music is really bad #nightmare
+1492,0,Sentiment140,this band is awful #nightmare
+746,0,Sentiment140,We loathe this game #fail
+1531,0,Sentiment140,summer is really bad #nightmare
+1147,0,Sentiment140,this band is terrible #rubbish
+16,1,Sentiment140,I like skiing #loveit
+1931,1,Sentiment140,jam is the best #toptastic
+958,0,Sentiment140,the holidays is terrible #hateit
+92,0,Sentiment140,I hate cheese #hateit
+833,1,Sentiment140,this game is great #loveit
+1373,1,Sentiment140,skiing is the best #bestever
+1431,1,Sentiment140,this game is brilliant #favorite
+1706,0,Sentiment140,this team is really bad #thumbs-down
+1703,0,Sentiment140,that movie is really bad #thumbs-down
+1751,0,Sentiment140,that film is awful #fail
+1444,1,Sentiment140,rock music is brilliant #favorite
+981,0,Sentiment140,the holidays is really bad #hateit
+1916,1,Sentiment140,this book is the best #toptastic
+773,1,Sentiment140,I like winter #toptastic
+1839,0,Sentiment140,jam is rubbish #fail
+1432,1,Sentiment140,that movie is brilliant #favorite
+1496,0,Sentiment140,that movie is terrible #nightmare
+903,1,Sentiment140,that movie is the best #loveit
+831,1,Sentiment140,that film is great #loveit
+723,0,Sentiment140,We dislike this game #fail
+1178,0,Sentiment140,this game is rubbish #rubbish
+1056,1,Sentiment140,that band is fantastic #brilliant
+292,0,Sentiment140,I hate skiing #worstever
+128,0,Sentiment140,I loathe summer #hateit
+818,1,Sentiment140,I adore summer #toptastic
+1730,0,Sentiment140,this game is rubbish #thumbs-down
+583,1,Sentiment140,We love that film #thumbs-up
+1736,0,Sentiment140,coffee is rubbish #thumbs-down
+1011,0,Sentiment140,jam is rubbish #hateit
+550,0,Sentiment140,I loathe that band #nightmare
+32,1,Sentiment140,We love this team #loveit
+1597,1,Sentiment140,this game is fantastic #thumbs-up
+281,0,Sentiment140,I hate this game #worstever
+407,1,Sentiment140,I adore skiing #bestever
+801,1,Sentiment140,I love classical music #toptastic
+1571,1,Sentiment140,this book is great #thumbs-up
+1714,0,Sentiment140,tea is really bad #thumbs-down
+967,0,Sentiment140,that movie is really bad #hateit
+1310,1,Sentiment140,jam is great #bestever
+615,1,Sentiment140,I adore pop music #thumbs-up
+702,0,Sentiment140,I hate tea #fail
+814,1,Sentiment140,We adore this team #toptastic
+614,1,Sentiment140,I adore skiing #thumbs-up
+252,0,Sentiment140,I dislike jam #rubbish
+1148,0,Sentiment140,that band is terrible #rubbish
+972,0,Sentiment140,that movie is really bad #hateit
+1077,1,Sentiment140,classical music is brilliant #brilliant
+222,0,Sentiment140,I hate the holidays #rubbish
+1419,1,Sentiment140,skiing is fantastic #favorite
+786,1,Sentiment140,I love this team #toptastic
+1044,1,Sentiment140,this team is fantastic #brilliant
+84,0,Sentiment140,I hate the holidays #hateit
+699,0,Sentiment140,We hate this team #fail
+1376,1,Sentiment140,classical music is the best #bestever
+1486,0,Sentiment140,winter is awful #nightmare
+95,0,Sentiment140,I dislike that film #hateit
+1379,1,Sentiment140,jam is the best #bestever
+846,1,Sentiment140,rock music is great #loveit
+733,0,Sentiment140,I dislike this band #fail
+428,1,Sentiment140,I like winter #favorite
+795,1,Sentiment140,I love summer #toptastic
+339,0,Sentiment140,I loathe pop music #worstever
+1241,0,Sentiment140,jam is terrible #worstever
+933,0,Sentiment140,summer is awful #hateit
+915,1,Sentiment140,rock music is the best #loveit
+1335,1,Sentiment140,that movie is brilliant #bestever
+1019,1,Sentiment140,this book is great #brilliant
+941,0,Sentiment140,that band is awful #hateit
+1767,0,Sentiment140,classical music is awful #fail
+570,1,Sentiment140,I like rock music #thumbs-up
+500,0,Sentiment140,I hate pop music #nightmare
+1915,1,Sentiment140,that movie is the best #toptastic
+96,0,Sentiment140,I dislike this team #hateit
+105,0,Sentiment140,I dislike summer #hateit
+1392,1,Sentiment140,tea is great #favorite
+282,0,Sentiment140,We hate that movie #worstever
+1826,0,Sentiment140,this team is rubbish #fail
+683,0,Sentiment140,I loathe skiing #thumbs-down
+852,1,Sentiment140,that movie is fantastic #loveit
+307,0,Sentiment140,We dislike that film #worstever
+1299,1,Sentiment140,coffee is great #bestever
+223,0,Sentiment140,I hate skiing #rubbish
+1460,1,Sentiment140,coffee is the best #favorite
+1518,0,Sentiment140,cheese is terrible #nightmare
+1405,1,Sentiment140,this book is fantastic #favorite
+1375,1,Sentiment140,rock music is the best #bestever
+632,0,Sentiment140,I hate coffee #thumbs-down
+1623,1,Sentiment140,summer is brilliant #thumbs-up
+1258,0,Sentiment140,skiing is really bad #worstever
+935,0,Sentiment140,the holidays is awful #hateit
+1396,1,Sentiment140,skiing is great #favorite
+1639,1,Sentiment140,that movie is the best #thumbs-up
+164,1,Sentiment140,I love that film #brilliant
+1577,1,Sentiment140,summer is great #thumbs-up
+1414,1,Sentiment140,coffee is fantastic #favorite
+125,0,Sentiment140,We loathe this game #hateit
+1300,1,Sentiment140,tea is great #bestever
+1366,1,Sentiment140,this team is the best #bestever
+1217,0,Sentiment140,that band is awful #worstever
+514,0,Sentiment140,We dislike that film #nightmare
+300,0,Sentiment140,I dislike that movie #worstever
+285,0,Sentiment140,We hate this team #worstever
+1838,0,Sentiment140,that band is rubbish #fail
+30,1,Sentiment140,We love this book #loveit
+1063,1,Sentiment140,this game is brilliant #brilliant
+182,1,Sentiment140,I love that band #brilliant
+1436,1,Sentiment140,this game is brilliant #favorite
+178,1,Sentiment140,I love pop music #brilliant
+670,0,Sentiment140,I loathe that film #thumbs-down
+221,0,Sentiment140,I hate winter #rubbish
+1567,1,Sentiment140,that film is great #thumbs-up
+1078,1,Sentiment140,this band is brilliant #brilliant
+1722,0,Sentiment140,this band is really bad #thumbs-down
+527,0,Sentiment140,I dislike that band #nightmare
+1121,0,Sentiment140,pop music is awful #rubbish
+1009,0,Sentiment140,this band is rubbish #hateit
+1074,1,Sentiment140,skiing is brilliant #brilliant
+6,1,Sentiment140,We like that movie #loveit
+422,1,Sentiment140,We like that film #favorite
+611,1,Sentiment140,I adore summer #thumbs-up
+480,1,Sentiment140,I adore this band #favorite
+574,1,Sentiment140,I like jam #thumbs-up
+593,1,Sentiment140,I love rock music #thumbs-up
+813,1,Sentiment140,We adore that film #toptastic
+363,1,Sentiment140,I like rock music #bestever
+68,1,Sentiment140,I adore jam #loveit
+1904,1,Sentiment140,rock music is brilliant #toptastic
+1816,0,Sentiment140,jam is really bad #fail
+167,1,Sentiment140,We love that movie #brilliant
+406,1,Sentiment140,I adore the holidays #bestever
+961,0,Sentiment140,rock music is terrible #hateit
+439,1,Sentiment140,I love this book #favorite
+467,1,Sentiment140,We adore this book #favorite
+210,0,Sentiment140,I hate that film #rubbish
+535,0,Sentiment140,We loathe that movie #nightmare
+521,0,Sentiment140,I dislike the holidays #nightmare
+9,1,Sentiment140,We like this team #loveit
+830,1,Sentiment140,this book is great #loveit
+1743,0,Sentiment140,rock music is rubbish #thumbs-down
+309,0,Sentiment140,We dislike this game #worstever
+214,0,Sentiment140,We hate this book #rubbish
+797,1,Sentiment140,I love the holidays #toptastic
+1109,0,Sentiment140,this game is awful #rubbish
+1045,1,Sentiment140,this game is fantastic #brilliant
+1654,1,Sentiment140,that band is the best #thumbs-up
+1435,1,Sentiment140,this team is brilliant #favorite
+291,0,Sentiment140,I hate the holidays #worstever
+1296,1,Sentiment140,that film is great #bestever
+660,0,Sentiment140,I dislike skiing #thumbs-down
+1173,0,Sentiment140,cheese is really bad #rubbish
+768,1,Sentiment140,We like this team #toptastic
+359,1,Sentiment140,I like winter #bestever
+1661,0,Sentiment140,this game is awful #thumbs-down
+938,0,Sentiment140,rock music is awful #hateit
+880,1,Sentiment140,that movie is brilliant #loveit
+435,1,Sentiment140,I like that band #favorite
+299,0,Sentiment140,I hate cheese #worstever
+807,1,Sentiment140,I adore this book #toptastic
+1177,0,Sentiment140,this team is rubbish #rubbish
+937,0,Sentiment140,pop music is awful #hateit
+1346,1,Sentiment140,tea is brilliant #bestever
+76,0,Sentiment140,We hate this book #hateit
+168,1,Sentiment140,We love this book #brilliant
+1441,1,Sentiment140,the holidays is brilliant #favorite
+754,0,Sentiment140,I loathe rock music #fail
+327,0,Sentiment140,I loathe this game #worstever
+117,0,Sentiment140,I loathe this book #hateit
+49,1,Sentiment140,I adore that film #loveit
+1772,0,Sentiment140,that movie is terrible #fail
+916,1,Sentiment140,classical music is the best #loveit
+648,0,Sentiment140,I dislike this team #thumbs-down
+872,1,Sentiment140,that band is fantastic #loveit
+102,0,Sentiment140,We dislike this game #hateit
+741,0,Sentiment140,I loathe this game #fail
+1926,1,Sentiment140,pop music is the best #toptastic
+1268,0,Sentiment140,that film is rubbish #worstever
+1681,0,Sentiment140,this book is terrible #thumbs-down
+1712,0,Sentiment140,this game is really bad #thumbs-down
+402,1,Sentiment140,I adore coffee #bestever
+1695,0,Sentiment140,skiing is terrible #thumbs-down
+47,1,Sentiment140,I adore that movie #loveit
+738,0,Sentiment140,I loathe this book #fail
+633,0,Sentiment140,I hate tea #thumbs-down
+1226,0,Sentiment140,this book is terrible #worstever
+1534,0,Sentiment140,skiing is really bad #nightmare
+313,0,Sentiment140,I dislike winter #worstever
+1003,0,Sentiment140,winter is rubbish #hateit
+347,1,Sentiment140,I like this book #bestever
+65,1,Sentiment140,I adore classical music #loveit
+566,1,Sentiment140,I like winter #thumbs-up
+399,1,Sentiment140,We adore that film #bestever
+1582,1,Sentiment140,rock music is great #thumbs-up
+139,1,Sentiment140,I like that movie #brilliant
+360,1,Sentiment140,I like the holidays #bestever
+798,1,Sentiment140,I love skiing #toptastic
+468,1,Sentiment140,We adore that film #favorite
+1190,0,Sentiment140,pop music is rubbish #rubbish
+1286,0,Sentiment140,that band is rubbish #worstever
+678,0,Sentiment140,I loathe coffee #thumbs-down
+1404,1,Sentiment140,that movie is fantastic #favorite
+1213,0,Sentiment140,pop music is awful #worstever
+817,1,Sentiment140,I adore tea #toptastic
+1176,0,Sentiment140,that film is rubbish #rubbish
+340,0,Sentiment140,I loathe rock music #worstever
+1333,1,Sentiment140,jam is fantastic #bestever
+1465,1,Sentiment140,skiing is the best #favorite
+416,1,Sentiment140,I like this book #favorite
+1574,1,Sentiment140,this game is great #thumbs-up
+478,1,Sentiment140,I adore rock music #favorite
+426,1,Sentiment140,I like tea #favorite
+1052,1,Sentiment140,pop music is fantastic #brilliant
+1648,1,Sentiment140,the holidays is the best #thumbs-up
+1245,0,Sentiment140,that film is really bad #worstever
+599,1,Sentiment140,I adore that movie #thumbs-up
+1870,1,Sentiment140,this book is fantastic #toptastic
+14,1,Sentiment140,I like winter #loveit
+1117,0,Sentiment140,summer is awful #rubbish
+721,0,Sentiment140,We dislike that film #fail
+1324,1,Sentiment140,summer is fantastic #bestever
+1584,1,Sentiment140,this band is great #thumbs-up
+1635,1,Sentiment140,this book is the best #thumbs-up
+411,1,Sentiment140,I adore this band #bestever
+227,0,Sentiment140,I hate this band #rubbish
+727,0,Sentiment140,I dislike winter #fail
+1718,0,Sentiment140,skiing is really bad #thumbs-down
+805,1,Sentiment140,I love cheese #toptastic
+983,0,Sentiment140,pop music is really bad #hateit
+356,1,Sentiment140,I like coffee #bestever
+1543,0,Sentiment140,this book is rubbish #nightmare
+56,1,Sentiment140,We adore this game #loveit
+24,1,Sentiment140,I love that movie #loveit
+661,0,Sentiment140,I dislike pop music #thumbs-down
+1132,0,Sentiment140,this game is terrible #rubbish
+1757,0,Sentiment140,this team is awful #fail
+497,0,Sentiment140,I hate winter #nightmare
+1415,1,Sentiment140,tea is fantastic #favorite
+1363,1,Sentiment140,that movie is the best #bestever
+1546,0,Sentiment140,this game is rubbish #nightmare
+1262,0,Sentiment140,this band is really bad #worstever
+162,1,Sentiment140,I love that movie #brilliant
+477,1,Sentiment140,I adore pop music #favorite
+1797,0,Sentiment140,that film is really bad #fail
+993,0,Sentiment140,this team is rubbish #hateit
+427,1,Sentiment140,I like summer #favorite
+89,0,Sentiment140,I hate this band #hateit
+1292,1,Sentiment140,this team is great #bestever
+1874,1,Sentiment140,coffee is fantastic #toptastic
+1293,1,Sentiment140,this game is great #bestever
+1327,1,Sentiment140,skiing is fantastic #bestever
+335,0,Sentiment140,I loathe summer #worstever
+1242,0,Sentiment140,cheese is terrible #worstever
+1073,1,Sentiment140,the holidays is brilliant #brilliant
+823,1,Sentiment140,I adore rock music #toptastic
+1896,1,Sentiment140,this game is brilliant #toptastic
+194,1,Sentiment140,We adore this game #brilliant
+561,1,Sentiment140,We like this team #thumbs-up
+4,1,Sentiment140,I like this team #loveit
+1717,0,Sentiment140,the holidays is really bad #thumbs-down
+1792,0,Sentiment140,that band is terrible #fail
+1521,0,Sentiment140,that film is really bad #nightmare
+861,1,Sentiment140,this game is fantastic #loveit
+
