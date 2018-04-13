@@ -1,6 +1,6 @@
 # Data-Mining-and-Big-Data-Analytics-Book
-Selamat datang di halaman resmi buku "Data Mining & Big Data Analytics: Teori dan Implementasi Menggunakan Python & Apache Spark". Bagi yang belum memiliki bukunya, bisa didapatkan [di sini](http://www.tokopedia.com/bukukitaindo/data-mining-dan-big-data-analytics). Adapun halaman resmi di Github ini ditujukan untuk:
-1. Memuat semua update informasi terkait buku ini, seperti jika ada materi tambahan, revisi jika ditemukan kesalahan, bonus video, dst. Informasi tersebut juga akan kami emailkan jika diperlukan dikemudian hari. Bagi pembeli buku yang belum mengisikan emailnya, dimohon berkenan mengisikannya [di sini](https://goo.gl/forms/Klcw9eSmJ8VTMkln1). 
+Selamat datang di halaman resmi buku "Data Mining & Big Data Analytics: Teori dan Implementasi Menggunakan Python & Apache Spark". Bagi yang belum memiliki bukunya, bisa didapatkan [di sini](http://www.tokopedia.com/bukukitaindo/data-mining-dan-big-data-analytics). Halaman resmi di Github ini ditujukan untuk:
+1. Memuat semua update informasi terkait buku ini, seperti jika ada materi tambahan, revisi jika ditemukan kesalahan, bonus video, dst. Informasi tersebut juga akan kami emailkan jika diperlukan di kemudian hari. Bagi pembeli buku yang belum mengisikan emailnya, dimohon berkenan mengisikannya [di sini](https://goo.gl/forms/Klcw9eSmJ8VTMkln1). 
 2. Memuat semua code dan dataset yang digunakan dalam buku ini. Adapun code dan dataset tersebut dapat di download di folder/repository ini (lihat di atas).
 <br> <br>
 ### Software yang dibutuhkan
@@ -27,4 +27,4 @@ Tiada gading yang tak retak. Begitu pula buku kami pada edisi cetakan pertama in
 1. Di halaman  278 sub-bab 17.4 tertulis "...yang memberikan nilai varian yang tinggi antar kelasnya dan memberikan nilai varian yang **tinggi** dalam kelasnya". Yang benar adalah "...yang memberikan nilai varian yang tinggi antar kelasnya dan memberikan nilai varian yang **rendah** dalam kelasnya".
 <br><br>
 ## Kontak lebih lanjut
-Jika para pembaca sekalian menemukan kesulitan, kesalahan; ingin memberikan saran dan masukan atau ada pertanyaan lainnya. Dapat mengontak via email: bukukita.indo@gmail.com. Email tersebut dikelola dan akan dibalas langsung oleh penulis buku.
+Jika para pembaca sekalian menemukan kesulitan, kesalahan; ingin memberikan saran/masukan, atau ada pertanyaan lainnya, dapat mengontak via email berikut: bukukita.indo@gmail.com. Email tersebut dikelola dan akan dibalas langsung oleh penulis buku.
