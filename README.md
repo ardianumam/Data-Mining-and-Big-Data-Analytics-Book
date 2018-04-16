@@ -22,6 +22,9 @@ Berikut ini adalah video-video yang terkait dengan buku ini.
 ### Daftar isi buku dan sampel isi buku
 Bagi yang belum memiliki bukunya, dapat melihat daftar isi dari bukunya [di sini](http://goo.gl/Z7onsr) dan sampel isi bukunya [di sini](http://goo.gl/PVf5i4).
 <br><br>
+### Catatan untuk file coding
+Semua file coding yang ada di dalam repository ini sesuai dengan yang telah dijelaskan di dalam bukunya. Adapun terdapat satu pengecualian untuk implementasi dari metode EM Clustering, yakni menggunakan bahasa pemrograman C++ sesuai dengan alasan yang telah dijelaskan di dalam bukunya. Pada implementasi EM Clustering tersebut, digunakan library OpenCV yang diperlukan untuk men-scaling data gambar MNIST. Bagi yang belum familiar mengenai cara melakukan setting library OpenCV, dapat melihat panduan video berikut. [[klik di sini]](http://www.youtube.com/watch?v=Ay8snLu2SNY&t=167s) 
+<br><br>
 ### Revisi
 Tiada gading yang tak retak. Begitu pula buku kami pada edisi cetakan pertama ini. Pertama-tama, kami mengucapkan terima kasih atas segala pihak yang telah memberikan saran dan masukan terkait buku ini. Semoga buku ini dapat bermanfaat dan dapat menjadi referensi bagi siapa saja yang ingin mendalami bidang-bidang yang berkaitan dengan: data mining, data science, big data dan machine learning. Hingga saat ini, berikut adalah beberapa revisi minor dalam buku ini, pada edisi cetakan pertama. <br>
 1. Di halaman  278 sub-bab 17.4 tertulis "...yang memberikan nilai varian yang tinggi antar kelasnya dan memberikan nilai varian yang **tinggi** dalam kelasnya". Yang benar adalah "...yang memberikan nilai varian yang tinggi antar kelasnya dan memberikan nilai varian yang **rendah** dalam kelasnya".
