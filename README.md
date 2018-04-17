@@ -3,6 +3,9 @@ Selamat datang di halaman resmi buku "Data Mining & Big Data Analytics: Teori da
 1. Memuat semua update informasi terkait buku ini, seperti jika ada materi tambahan, revisi jika ditemukan kesalahan, bonus video, dst. Informasi tersebut juga akan kami emailkan jika diperlukan di kemudian hari. Bagi pembeli buku yang belum mengisikan emailnya, dimohon berkenan mengisikannya [di sini](https://goo.gl/forms/Klcw9eSmJ8VTMkln1). 
 2. Memuat semua code dan dataset yang digunakan dalam buku ini. Adapun code dan dataset tersebut dapat di download di folder/repository ini (lihat di atas).
 <br> <br>
+### Penting!
+Kami mendapatkan laporan dari beberapa pembeli jika ada 1,2 halaman yang tercetak kosong. Kami sudah melaporkan dan melakukan komplain ke penerbit, tetapi tidak ditanggapi dengan serius. Untuk cetakan-cetakan berikutnya, kami akan mempertimbangkan penerbit yang lebih terpercaya. Adapun solusi yang kami tawarkan, jika cetakan buku yang rekan-rekan terima terdapat halaman yang kosong, kami akan segera kirimkan softfile untuk halaman tersebut. Mohon dapat melaporkan ke: bukukita.indo@gmail.com, dilengkapi dengan foto halaman yang kosong. Semoga ini tidak mengurangi semangat kita untuk terus belajar dan berkembang. Terima kasih :)
+<br> <br>
 ### Software yang dibutuhkan
 Berikut adalah software-software yang dibutuhkan dalam buku ini. Sebenarnya, di dalam bukunya sudah ditunjukkan satu per satu cara mendapatkan softwarenya dari website resminya masing-masing. Akan tetapi, akan kami rekap di sini, sekiranya dapat membantu dan memudahkan.<br>
 1. Anaconda [[klik di sini](http://www.anaconda.com/download/)]
