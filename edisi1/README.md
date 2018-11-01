@@ -1,1 +1,1 @@
-Repositori ini adalah untuk buku edisi pertama.
+Repositori ini adalah untuk buku edisi 1.
