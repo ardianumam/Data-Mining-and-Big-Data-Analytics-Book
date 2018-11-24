@@ -13,7 +13,7 @@ gambar1 = np.asarray(gambar1)
 gambar2 = np.asarray(gambar2)
 
 #memanggil model yang telah ditraining sebelumnya
-model = load_model('./model/modelLeNet5.h5')
+model = load_model('./modelLeNet5.h5')
 
 #memprediksi gambar dg modelnya
 #ingat, intensitas perlu dibagi 255 karena saat training jg dibagi 255
