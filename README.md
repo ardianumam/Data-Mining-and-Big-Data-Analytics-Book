@@ -21,8 +21,9 @@ Berikut ini adalah video-video yang terkait dengan buku ini.
 2. Tutorial cara menginstall Python (menggunakan Anaconda dan PyCharm) [[klik di sini](https://www.youtube.com/watch?v=rCMH8Ca0UP8&t=1037s)]
 3. Tutorial install Apache Spark [[klik di sini](http://www.youtube.com/watch?v=WQErwxRTiW0&t=15s)]
 4. Tutorial membuat klaster komputer untuk Apache Spark [[klik di sini](http://www.youtube.com/watch?v=WQErwxRTiW0&t=15s)]
-<br><br>
 5. Penjelasan tentang konvolusi dan korelasi pada image [[klik di sini](https://www.youtube.com/watch?v=zQUBLrpvCHc)]
+<br><br>
+
 ### Daftar isi buku dan sampel isi buku
 Bagi yang belum memiliki bukunya, dapat melihat daftar isi dari bukunya [di sini](http://goo.gl/Z7onsr) dan sampel isi bukunya [di sini](http://goo.gl/PVf5i4).
 <br><br>
