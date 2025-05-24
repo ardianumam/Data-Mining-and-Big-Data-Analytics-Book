@@ -12,7 +12,7 @@ irisDataset["Species"] = pd.factorize(irisDataset.Species)[0]
 irisDataset = irisDataset.drop(labels="Id", axis=1)
 
 #mengubah dataframe ke array numpy
-irisDataset = irisDataset.as_matrix()
+irisDataset = irisDataset.to_numpy()
 
 #membagi dataset, 40 baris data untuk training
 #dan 20 baris data untuk testing
